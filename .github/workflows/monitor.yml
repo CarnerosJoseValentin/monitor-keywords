@@ -33,10 +33,14 @@ jobs:
         run: |
           python src/monitor.py
 
-      - name: Commit updated state
+            - name: Commit updated state
+        shell: bash
         run: |
-          set -e
-          if git status --porcelain | grep -q "state.json"; then
+          set -euo pipefail
+
+          # ¿Cambió state.json?
+          if git diff --name-only | grep -qx "state.json"; then
+            echo "state.json changed; committing..."
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add state.json
