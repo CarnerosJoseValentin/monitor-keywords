@@ -33,7 +33,7 @@ jobs:
         run: |
           python src/monitor.py
 
-            - name: Commit updated state
+      - name: Commit updated state
         shell: bash
         run: |
           set -euo pipefail
