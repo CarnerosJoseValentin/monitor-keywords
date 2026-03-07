@@ -14,7 +14,7 @@ from dateutil import parser as dateparser
 STATE_PATH = "state.json"
 KEYWORDS_PATH = "keywords.txt"
 FEEDS_PATH = "feeds.txt"
-MASTODON_INSTANCES_PATH = "mastodon_instances.txt"
+
 
 DEFAULT_RETENTION_DAYS = 30
 DEFAULT_MAX_SNIPPET = 300
@@ -192,25 +192,6 @@ def fetch_feed(url: str) -> feedparser.FeedParserDict:
     return feedparser.parse(url, agent=UA)
 
 
-def mastodon_hashtag_feed_urls(instances: list[str], keywords: list[str]) -> list[str]:
-    feeds = []
-    for inst in instances:
-        inst = inst.strip()
-        if not inst:
-            continue
-        base = f"https://{inst}/tags/"
-        for raw in keywords:
-            kw = strip_quotes(raw).strip()
-            # hashtags: solo si no tiene espacios
-            if not kw or " " in kw:
-                continue
-            tag = re.sub(r"[^A-Za-z0-9_]", "", kw)
-            if not tag:
-                continue
-            feeds.append(base + tag + ".rss")
-    return feeds
-
-
 def send_telegram(token: str, chat_id: str, text: str) -> None:
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
@@ -239,10 +220,9 @@ def main():
     compiled = compile_keyword_patterns(keywords_raw)
 
     feeds = read_lines(FEEDS_PATH)
-    instances = read_lines(MASTODON_INSTANCES_PATH)
-    masto_feeds = mastodon_hashtag_feed_urls(instances, keywords_raw)
+    
+    all_feeds = feeds
 
-    all_feeds = feeds + masto_feeds
     if not all_feeds:
         raise SystemExit("No feeds found. Add RSS URLs to feeds.txt and/or Mastodon instances + hashtag keywords.")
 
