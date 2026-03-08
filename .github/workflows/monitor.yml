@@ -26,13 +26,28 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      # Intentar descargar el estado previo. Si todavía no existe, no pasa nada.
-      - name: Download previous state (artifact)
+      # Intentar descargar el estado previo. 
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gh
+
+      - name: Download previous state from latest successful run
         continue-on-error: true
-        uses: actions/download-artifact@v4
-        with:
-          name: monitor-state
-          path: .
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          # Busca el último run exitoso del workflow actual
+          RUN_ID=$(gh run list --workflow "monitor.yml" --branch "${GITHUB_REF_NAME}" --status success --limit 1 --json databaseId -q '.[0].databaseId' || true)
+          if [ -n "${RUN_ID}" ]; then
+            echo "Last successful run id: ${RUN_ID}"
+            # Descarga el artifact monitor-state de ese run
+            gh run download "${RUN_ID}" -n monitor-state --dir .
+            ls -la state.json || true
+          else
+            echo "No previous successful runs found."
+          fi
 
       - name: Run monitor
         env:
