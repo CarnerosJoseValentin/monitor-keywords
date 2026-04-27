@@ -1,3 +1,40 @@
 # Palabras de busqueda
 
-AEROPUERTO
+# Terrorismo
+terrorismo
+terrorista
+atentado
+explosivo
+amenaza de bomba
+
+# Trata de Personas
+trata de personas
+explotación sexual
+tráfico de personas
+red de trata
+proxenetismo
+
+# Contrabando
+contrabando
+mercadería ilegal
+evasión aduanera
+incautación aduana
+gendarmería contrabando
+
+# Narcotráfico
+narcotráfico
+narcotraficante
+drogas
+cocaína
+narcomenudeo
+estupefacientes
+secuestro de drogas
+
+# Seguridad Aeroportuaria
+aeropuerto
+seguridad aeroportuaria
+PSA
+policía de seguridad aeroportuaria
+vuelo clandestino
+pista clandestina
+tráfico aéreo ilegal
