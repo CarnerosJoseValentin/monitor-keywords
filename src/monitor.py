@@ -10,11 +10,14 @@ import feedparser
 import requests
 from dateutil import parser as dateparser
 
+# Nuevas librerías para el reporte
+from docx import Document
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+import google.generativeai as genai
 
 STATE_PATH = "state.json"
 KEYWORDS_PATH = "keywords.txt"
 FEEDS_PATH = "feeds.txt"
-
 
 DEFAULT_RETENTION_DAYS = 30
 DEFAULT_MAX_SNIPPET = 300
@@ -49,10 +52,6 @@ def strip_quotes(s: str) -> str:
 
 
 def fold_accents(s: str) -> str:
-    """
-    Convierte a una forma comparable sin acentos/diacríticos.
-    Ej: "policía" -> "policia"
-    """
     s = unicodedata.normalize("NFKD", s)
     s = "".join(ch for ch in s if not unicodedata.combining(ch))
     return s
@@ -62,7 +61,6 @@ def normalize_text_for_match(s: str) -> str:
     s = strip_quotes(s)
     s = s.lower()
     s = fold_accents(s)
-    # normalizar espacios
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
@@ -98,9 +96,12 @@ def stable_id(title: str, url: str, published: str | None) -> str:
 
 def load_state() -> dict:
     if not os.path.exists(STATE_PATH):
-        return {"version": 1, "seen": {}}
+        return {"version": 1, "seen": {}, "reporte_diario": []}
     with open(STATE_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+        state = json.load(f)
+        if "reporte_diario" not in state:
+            state["reporte_diario"] = []
+        return state
 
 
 def save_state(state: dict) -> None:
@@ -145,29 +146,17 @@ def entry_text(entry) -> str:
 
 
 def compile_keyword_patterns(keywords: list[str]) -> list[tuple[str, re.Pattern]]:
-    """
-    Devuelve lista de (keyword_original, regex_pattern).
-    Reglas:
-    - Si keyword es "sigla" (solo letras/números, sin espacios) y <= 6 chars -> match por palabra completa.
-    - Si es frase con espacios -> match por substring normalizado (regex simple).
-    """
     compiled = []
     for raw in keywords:
         kw = strip_quotes(raw)
         kw_norm = normalize_text_for_match(kw)
-
         if not kw_norm:
             continue
-
-        # detectar "sigla"
         is_token = bool(re.fullmatch(r"[a-z0-9_]+", kw_norm))
         if is_token and len(kw_norm) <= 6:
-            # palabra completa: \b...\b
             pat = re.compile(rf"\b{re.escape(kw_norm)}\b", re.IGNORECASE)
         else:
-            # frase / palabra larga: búsqueda flexible en texto normalizado
             pat = re.compile(re.escape(kw_norm), re.IGNORECASE)
-
         compiled.append((kw, pat))
     return compiled
 
@@ -201,34 +190,124 @@ def send_telegram(token: str, chat_id: str, text: str) -> None:
     }
     r = requests.post(url, json=payload, timeout=30)
     if not r.ok:
-        raise RuntimeError(f"Telegram sendMessage failed: {r.status_code} {r.text}")
+        print(f"Telegram sendMessage failed: {r.status_code} {r.text}")
+
+
+def send_telegram_document(token: str, chat_id: str, file_path: str, caption: str = "") -> None:
+    url = f"https://api.telegram.org/bot{token}/sendDocument"
+    with open(file_path, "rb") as f:
+        files = {"document": f}
+        data = {"chat_id": chat_id, "caption": caption}
+        r = requests.post(url, data=data, files=files, timeout=60)
+        if not r.ok:
+            print(f"Telegram sendDocument failed: {r.status_code} {r.text}")
+
+
+def generar_docx(items: list, api_key: str, path="reporte_diario.docx"):
+    doc = Document()
+    now_arg = datetime.now(timezone.utc) - timedelta(hours=3)
+    meses = ["ENERO", "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", "JULIO", "AGOSTO", "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE"]
+    fecha_encabezado = f"{now_arg.day} {meses[now_arg.month - 1]} {now_arg.year}"
+
+    # Encabezado
+    titulo = doc.add_heading("REPORTE DE EXPLOTACIÓN DE PRENSA – (REP)", level=1)
+    titulo.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    subtitulo = doc.add_paragraph()
+    subtitulo.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    subtitulo.add_run(fecha_encabezado).bold = True
+    doc.add_paragraph()
+
+    for idx, item in enumerate(items):
+        if idx > 0:
+            doc.add_paragraph("-" * 60).alignment = WD_ALIGN_PARAGRAPH.CENTER
+            doc.add_paragraph()
+
+        # Extraer y formatear datos
+        dt_pub = now_arg 
+        if item.get("published"):
+            try:
+                dt_pub = dateparser.parse(item["published"])
+                if dt_pub.tzinfo:
+                    dt_pub = dt_pub.astimezone(timezone(timedelta(hours=-3)))
+            except:
+                pass
+
+        fecha_hecho = dt_pub.strftime("%d/%m/%Y")
+        hora_hecho = dt_pub.strftime("%H:%M hs")
+        delitos = ", ".join(item.get("keywords", [])).title()
+        titulo_noticia = item.get("title", "")
+        url = item.get("url", "")
+        texto_base = item.get("text", "")
+        
+        # Detectar provincia en el texto
+        prov = "Provincia a determinar"
+        txt_lower = texto_base.lower()
+        for pr in ["Córdoba", "Mendoza", "San Luis", "San Juan", "La Pampa"]:
+            if pr.lower() in txt_lower:
+                prov = pr
+                break
+
+        # Procesar con Gemini
+        resumen = texto_base[:500] + "..." # Fallback por si falla la API
+        if api_key:
+            try:
+                genai.configure(api_key=api_key)
+                model = genai.GenerativeModel('gemini-1.5-flash')
+                prompt = f"Redacta un resumen formal, objetivo y con tono institucional policial de la siguiente noticia. Debe ser un solo párrafo estructurado, directo al punto:\n\n{texto_base}"
+                response = model.generate_content(prompt)
+                resumen = response.text.strip()
+            except Exception as e:
+                print(f"Error procesando con Gemini: {e}")
+
+        # Escribir en el documento
+        p = doc.add_paragraph()
+        p.add_run("Ámbito: ").bold = True
+        p.add_run("URSA II DEL CENTRO\n")
+
+        p.add_run("Fecha del hecho: ").bold = True
+        p.add_run(f"{fecha_hecho}\n")
+
+        p.add_run("Hora: ").bold = True
+        p.add_run(f"{hora_hecho}\n")
+
+        p.add_run("Provincia: ").bold = True
+        p.add_run(f"{prov}\n")
+
+        p.add_run("Delito: ").bold = True
+        p.add_run(f"{delitos}\n")
+
+        p.add_run("Título: ").bold = True
+        p.add_run(f"{titulo_noticia}\n")
+
+        p.add_run("Resumen:\n").bold = True
+        p.add_run(f"{resumen}\n\n")
+
+        p.add_run("Fuente: ").bold = True
+        p.add_run(url)
+
+    doc.save(path)
+    return path
 
 
 def main():
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip()
+    api_key_gemini = os.getenv("GEMINI_API_KEY", "").strip()
+
     if not token or not chat_id:
-        raise SystemExit("Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID (set GitHub Secrets).")
+        raise SystemExit("Faltan credenciales de Telegram.")
 
     retention_days = int(os.getenv("RETENTION_DAYS", str(DEFAULT_RETENTION_DAYS)))
     max_snippet = int(os.getenv("MAX_SNIPPET_CHARS", str(DEFAULT_MAX_SNIPPET)))
 
     keywords_raw = read_lines(KEYWORDS_PATH)
-    if not keywords_raw:
-        raise SystemExit("keywords.txt is empty. Add at least 1 keyword.")
-
     compiled = compile_keyword_patterns(keywords_raw)
-
-    feeds = read_lines(FEEDS_PATH)
-    
-    all_feeds = feeds
-
-    if not all_feeds:
-        raise SystemExit("No feeds found. Add RSS URLs to feeds.txt and/or Mastodon instances + hashtag keywords.")
+    all_feeds = read_lines(FEEDS_PATH)
 
     state = load_state()
     purge_state(state, retention_days)
     seen = state.get("seen", {})
+    reporte_diario = state.get("reporte_diario", [])
 
     new_items = []
 
@@ -241,7 +320,6 @@ def main():
                 if not link:
                     continue
                 norm = normalize_url(link)
-
                 text = (title + " " + entry_text(entry)).strip()
                 hits = match_keywords(text, compiled)
                 if not hits:
@@ -254,56 +332,67 @@ def main():
                     continue
 
                 snippet_src = entry_text(entry)
-                snippet = snippet_src[:max_snippet] + ("…" if len(snippet_src) > max_snippet else "")
+                snippet = snippet_src[:max_snippet] + "…" if len(snippet_src) > max_snippet else snippet_src
                 domain = urlparse(norm).netloc
 
-                new_items.append({
+                item_data = {
                     "keywords": hits,
                     "title": title.strip() or "(sin título)",
                     "url": norm,
                     "domain": domain,
                     "snippet": snippet,
-                })
-
+                    "text": text,
+                    "published": published
+                }
+                new_items.append(item_data)
+                reporte_diario.append(item_data)
                 seen[sid] = datetime.now(timezone.utc).isoformat()
 
         except Exception as e:
-            new_items.append({
-                "keywords": ["(error)"],
-                "title": f"Error leyendo feed: {feed_url}",
-                "url": feed_url,
-                "domain": "feed-error",
-                "snippet": str(e)[:max_snippet],
-            })
+            print(f"Error en feed {feed_url}: {e}")
 
+    # Enviar Alertas Horarias Estándar
     new_items_sorted = sorted(new_items, key=lambda it: (it["domain"], it["title"].lower()))
-
     if new_items_sorted:
-        lines = []
-        lines.append(f"🔔 Nuevos hallazgos (última hora): {len(new_items_sorted)}")
-        lines.append("")
-
+        lines = [f"🔔 Nuevos hallazgos (última hora): {len(new_items_sorted)}\n"]
         for it in new_items_sorted[:50]:
             kws = ", ".join(it["keywords"][:5])
             lines.append(f"• 🧷 {kws}")
             lines.append(f"  📰 {it['title']}")
             lines.append(f"  🌐 {it['domain']}")
-            if it["snippet"]:
-                lines.append(f"  📝 {it['snippet']}")
-            lines.append(f"  🔗 {it['url']}")
-            lines.append("")
+            lines.append(f"  🔗 {it['url']}\n")
 
         msg = "\n".join(lines).strip()
-        chunks = []
-        while msg:
-            chunks.append(msg[:3900])
-            msg = msg[3900:]
-
+        chunks = [msg[i:i+3900] for i in range(0, len(msg), 3900)]
         for chunk in chunks:
             send_telegram(token, chat_id, chunk)
             time.sleep(1)
 
+    # Actualizar estado de acumulación
     state["seen"] = seen
+    state["reporte_diario"] = reporte_diario
+
+    # Lógica de las 10:00 AM (Hora Argentina UTC-3)
+    now_arg = datetime.now(timezone.utc) - timedelta(hours=3)
+    today_str = now_arg.strftime("%Y-%m-%d")
+
+    # Si es la ejecución de las 10 AM y el reporte de hoy aún no se envió
+    if now_arg.hour == 9 and state.get("last_report_date") != today_str:
+        if len(reporte_diario) > 0:
+            try:
+                docx_path = generar_docx(reporte_diario, api_key_gemini)
+                caption = f"📄 REPORTE DE EXPLOTACIÓN DE PRENSA (REP)\nCorrespondiente al periodo finalizado el {fecha_hecho if 'fecha_hecho' in locals() else today_str} a las 10:00 hs."
+                send_telegram_document(token, chat_id, docx_path, caption)
+                
+                # Vaciar la caja fuerte para las siguientes 24 horas y marcar como enviado
+                state["reporte_diario"] = []
+                state["last_report_date"] = today_str
+            except Exception as e:
+                print(f"Error al enviar el Reporte Diario: {e}")
+        else:
+            # Marcar igual para no re-intentar todo el día si no hubo noticias
+            state["last_report_date"] = today_str 
+
     save_state(state)
 
 
