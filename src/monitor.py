@@ -377,7 +377,7 @@ def main():
     today_str = now_arg.strftime("%Y-%m-%d")
 
     # Si es la ejecución de las 10 AM y el reporte de hoy aún no se envió
-    if now_arg.hour == 9 and state.get("last_report_date") != today_str:
+    if now_arg.hour >= 9 and state.get("last_report_date") != today_str:
         if len(reporte_diario) > 0:
             try:
                 docx_path = generar_docx(reporte_diario, api_key_gemini)
