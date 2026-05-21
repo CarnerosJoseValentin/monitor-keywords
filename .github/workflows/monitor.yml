@@ -1,20 +1,17 @@
-name: Monitor keywords hourly
+name: Keyword Monitor
 
 on:
   schedule:
-    - cron: "0 * * * *"   # cada hora
-  workflow_dispatch:
-
-# Evita solapamientos (por si un run tarda más de 1h)
-concurrency:
-  group: monitor-keywords-hourly
-  cancel-in-progress: false
+    # Corre cada hora, en el minuto 0
+    - cron: "0 * * * *"
+  workflow_dispatch: # Permite ejecución manual desde la UI de GitHub
 
 jobs:
-  run-monitor:
+  monitor:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -23,46 +20,36 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      # Intentar descargar el estado previo. 
-      - name: Install GitHub CLI
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y gh
-
-      - name: Download previous state from latest successful run
-        continue-on-error: true
+      # Inyecta los feeds de Google Alerts desde Secrets hacia feeds.txt
+      # Solo agrega los que están configurados (los vacíos se ignoran)
+      - name: Inject Google Alert feeds
         env:
-          GH_TOKEN: ${{ github.token }}
+          FEED_1: ${{ secrets.GOOGLE_ALERT_FEED_1 }}
+          FEED_2: ${{ secrets.GOOGLE_ALERT_FEED_2 }}
+          FEED_3: ${{ secrets.GOOGLE_ALERT_FEED_3 }}
         run: |
-          set -e
-          # Busca el último run exitoso del workflow actual
-          RUN_ID=$(gh run list --workflow "monitor.yml" --branch "${GITHUB_REF_NAME}" --status success --limit 1 --json databaseId -q '.[0].databaseId' || true)
-          if [ -n "${RUN_ID}" ]; then
-            echo "Last successful run id: ${RUN_ID}"
-            # Descarga el artifact monitor-state de ese run
-            gh run download "${RUN_ID}" -n monitor-state --dir .
-            ls -la state.json || true
-          else
-            echo "No previous successful runs found."
-          fi
+          echo "" >> feeds.txt
+          echo "# --- Google Alerts (inyectados desde Secrets) ---" >> feeds.txt
+          [ -n "$FEED_1" ] && echo "$FEED_1" >> feeds.txt || true
+          [ -n "$FEED_2" ] && echo "$FEED_2" >> feeds.txt || true
+          [ -n "$FEED_3" ] && echo "$FEED_3" >> feeds.txt || true
 
       - name: Run monitor
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          MAX_SNIPPET_CHARS: "300"
-          RETENTION_DAYS: "30"
-        run: |
-          python src/monitor.py
+          RETENTION_DAYS: 30
+          MAX_SNIPPET_CHARS: 300
+        run: python src/monitor.py
 
-      - name: Upload updated state (artifact)
-        uses: actions/upload-artifact@v4
-        with:
-          name: monitor-state
-          path: state.json
-          if-no-files-found: error
-          retention-days: 30
+      # Persiste el state.json para mantener la deduplicación entre ejecuciones
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "chore: update state [skip ci]"
+          git push
