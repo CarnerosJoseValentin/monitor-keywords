@@ -9,15 +9,3 @@ https://www.cordobabn.com/rss/listado/
 https://www.tiempodesanjuan.com/rss
 https://www.eldiariodelapampa.com.ar/rss
 https://www.eldiariodelarepublica.com/rss
-
-# --------------------------------------------------
-# ALERTAS DE GOOGLE (Puentes para medios sin RSS)
-# --------------------------------------------------
-# Alerta 1: Medios de Córdoba (La Voz, El Doce, etc.)
-https://www.google.com/alerts/feeds/09041028869570172572/16708782296497554760
-
-# Alerta 2: Medios de Cuyo y La Pampa (Diario de Cuyo, etc.)
-https://www.google.com/alerts/feeds/09041028869570172572/12161824362621691243
-
-# Alerta 3: Búsqueda Regional General
-https://www.google.com/alerts/feeds/09041028869570172572/309614935969798234
