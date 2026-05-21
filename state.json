@@ -1,6 +1,30 @@
 {
   "last_report_date": "2026-05-21",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "aeropuerto"
+      ],
+      "published": "2026-05-21T19:36:12Z",
+      "snippet": "El aeropuerto de Mendoza mejora su operación con un nuevo sistema AWOS Esta tecnología promete mejorar de manera significativa la previsibilidad de los vuelos y reducir los desvíos y cancelaciones. Esta tecnología promete mejorar de manera significativa la previsibilidad de los vuelos y reducir los …",
+      "text": "El <b>aeropuerto</b> de <b>Mendoza</b> mejora su operación con un nuevo sistema AWOS El aeropuerto de Mendoza mejora su operación con un nuevo sistema AWOS Esta tecnología promete mejorar de manera significativa la previsibilidad de los vuelos y reducir los desvíos y cancelaciones. Esta tecnología promete mejorar de manera significativa la previsibilidad de los vuelos y reducir los desvíos y cancelaciones. Esta tecnología promete mejorar de manera significativa la previsibilidad de los vuelos y reducir los desvíos y cancelaciones.",
+      "title": "El <b>aeropuerto</b> de <b>Mendoza</b> mejora su operación con un nuevo sistema AWOS",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fmendoza24.com.ar%2Ftecnologia%2F29609-El-aeropuerto-de-Mendoza-mejora-su-operacion-con-un-nuevo-sistema-AWOS&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw136sd1OVRYHJ09HLGph_e7"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "aeropuerto",
+        "PSA"
+      ],
+      "published": "2026-05-21T17:35:21Z",
+      "snippet": "El aeropuerto de Mendoza mejora su operación con un nuevo sistema AWOS instalado por EANA American Jet que dejo de volar a General Pico - La Pampa - ahora… ... PSA &middot; Ministerio del Interior &middot; Promociones &middot; Vuelos &middot; Viajes &middot; Escapadas&nbsp;... American Jet que dejo …",
+      "text": "El <b>aeropuerto</b> de <b>Mendoza</b> mejora su operación con un nuevo sistema AWOS instalado por EANA El aeropuerto de Mendoza mejora su operación con un nuevo sistema AWOS instalado por EANA American Jet que dejo de volar a General Pico - La Pampa - ahora… ... PSA &middot; Ministerio del Interior &middot; Promociones &middot; Vuelos &middot; Viajes &middot; Escapadas&nbsp;... American Jet que dejo de volar a General Pico - La Pampa - ahora… ... PSA &middot; Ministerio del Interior &middot; Promociones &middot; Vuelos &middot; Viajes &middot; Escapadas&nbsp;... American Jet que dejo de volar a General Pico - La Pampa - ahora… ... PSA &middot; Ministerio del Interior &middot; Promociones &middot; Vuelos &middot; Viajes &middot; Escapadas&nbsp;...",
+      "title": "El <b>aeropuerto</b> de <b>Mendoza</b> mejora su operación con un nuevo sistema AWOS instalado por EANA",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Faviacionenargentina.com.ar%2Fel-aeropuerto-de-mendoza-mejora-su-operacion-con-un-nuevo-sistema-awos-instalado-por-eana%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw26PrBF3Dq_mM4V1Fx4-nPC"
+    }
+  ],
   "seen": {
     "083a6c9ccc87bbdaa42f8c724cbef0f3eb2df4976397ceb33f4c3883403c908c": "2026-05-21T19:18:36.088227+00:00",
     "088688eb300089471b13c1c20861c459c944129da3ca78bceb424ca1a0f49cfa": "2026-05-21T19:18:36.083235+00:00",
@@ -13,6 +37,8 @@
     "4e78b272dc4450989f575c8406977a045650f1be60fb8a609167ccde4414d640": "2026-05-21T19:18:36.087811+00:00",
     "5117c4b44bd2ac23a2197b8bd7a71453cfe5e47d465773ed084fa2d553525441": "2026-05-21T19:18:35.903331+00:00",
     "5a20aad57d75a7a577427a9e3df9f35c065df33ea3922b5637e039817ecced41": "2026-05-21T19:18:35.902494+00:00",
+    "5b64487ebc3e49f174221ad775efbfbd539c24702c940ff12fce31dc8f8b734d": "2026-05-21T19:51:24.152933+00:00",
+    "6c7a904f40f5670ac6239a46c85e94c5c6df6a57148a78a2f9775fb2b1a5fa17": "2026-05-21T19:51:24.152433+00:00",
     "7c62d15218c6726a0a158abb6946c7ae032c632bba8978b044e92e9da40a4995": "2026-05-21T19:18:36.086616+00:00",
     "9f89f037b2495cce361c8687ccefe62cf282abaf2d1cf90be9be23f2260adb36": "2026-05-21T19:18:36.088599+00:00",
     "a9d035e245d5773726503e3cabd8f480f6d04154fb7cfec3489dd4c74520a37c": "2026-05-21T19:18:35.905952+00:00",
