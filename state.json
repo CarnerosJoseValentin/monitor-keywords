@@ -1,6 +1,19 @@
 {
   "last_report_date": "2026-05-31",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "policia"
+      ],
+      "published": "2026-05-31T12:44:00Z",
+      "snippet": "Vendía droga y preparaba paquetes con el pedido CONFIRMADO: cayó presa en Córdoba Una mujer de 37 años fue detenida durante un allanamiento de la Fuerza Policial Antinarcotráfico en barrio Cerro Norte, en la ciudad de Córdoba. El&nbsp;... Una mujer de 37 años fue detenida durante un allanamiento de …",
+      "text": "Vendía droga y preparaba paquetes con el pedido CONFIRMADO: cayó presa en Córdoba Vendía droga y preparaba paquetes con el pedido CONFIRMADO: cayó presa en Córdoba Una mujer de 37 años fue detenida durante un allanamiento de la Fuerza Policial Antinarcotráfico en barrio Cerro Norte, en la ciudad de Córdoba. El&nbsp;... Una mujer de 37 años fue detenida durante un allanamiento de la Fuerza Policial Antinarcotráfico en barrio Cerro Norte, en la ciudad de Córdoba. El&nbsp;... Una mujer de 37 años fue detenida durante un allanamiento de la Fuerza Policial Antinarcotráfico en barrio Cerro Norte, en la ciudad de Córdoba. El&nbsp;...",
+      "title": "Vendía droga y preparaba paquetes con el pedido CONFIRMADO: cayó presa en Córdoba",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Feldoce.tv%2Factualidad%2F2026%2F05%2F31%2Fvendia-droga-y-preparaba-paquetes-con-el-pedido-confirmado-cayo-presa-en-cordoba%2F&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw0G5HuacbalZM1kWnA_K0sz"
+    }
+  ],
   "seen": {
     "00993389aa39b935a073f3d0a7d5819e2a7a8edb0d4bce8738f181048912ab40": "2026-05-22T16:23:52.403401+00:00",
     "0151436ef5fa6d945ffa5a74db4f07b2357d5763131fa236bb14f81215dcf2fb": "2026-05-29T17:36:59.511603+00:00",
@@ -65,6 +78,7 @@
     "20c03dc5dd6627f3b05ad6ed811544844ea4e98bc3643d406f241835d6b732f9": "2026-05-27T03:35:54.595041+00:00",
     "20ef738fae15ad5c1a9803d2d6b5c15ad7ca4022efe11fe049edd9f3bff7a1d4": "2026-05-23T23:55:16.374468+00:00",
     "2229c9bf12ce1c1fa348cc367ac37d0b53ad0173997bd5ef94b3b136d207b5b8": "2026-05-21T19:18:36.088998+00:00",
+    "22699d119234cae973671b0109e792d910b997f1874d54eaafbdf8f551702453": "2026-05-31T14:42:33.374194+00:00",
     "2308063e131b221ea6535786558bef7fa1e09207d0af48cff76aea6271d1f032": "2026-05-26T16:41:15.356176+00:00",
     "249e47a1f2fcc4714c8d8af8a4ef799f9651cc0b87e33f1a2f618dd3291487c7": "2026-05-26T19:19:41.008853+00:00",
     "24a1a3e25b865ab32f7f6a216b1e95f18d86c418534affeb822e32ffc7b01ffc": "2026-05-30T17:01:15.021237+00:00",
