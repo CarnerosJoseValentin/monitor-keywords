@@ -1,6 +1,32 @@
 {
   "last_report_date": "2026-07-01",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas"
+      ],
+      "published": "2026-07-01T12:18:47Z",
+      "snippet": "Operativos en Punilla: secuestraron drogas en Carlos Paz y Capilla del Monte Los procedimientos forman parte del Plan Estratégico Contra el Narcotráfico impulsado por el Ministerio Público Fiscal de Córdoba . El operativo&nbsp;... Los procedimientos forman parte del Plan Estratégico Contra el Narcot…",
+      "text": "Operativos en Punilla: secuestraron <b>drogas</b> en Carlos Paz y Capilla del Monte Operativos en Punilla: secuestraron drogas en Carlos Paz y Capilla del Monte Los procedimientos forman parte del Plan Estratégico Contra el Narcotráfico impulsado por el Ministerio Público Fiscal de Córdoba . El operativo&nbsp;... Los procedimientos forman parte del Plan Estratégico Contra el Narcotráfico impulsado por el Ministerio Público Fiscal de Córdoba . El operativo&nbsp;... Los procedimientos forman parte del Plan Estratégico Contra el Narcotráfico impulsado por el Ministerio Público Fiscal de Córdoba . El operativo&nbsp;...",
+      "title": "Operativos en Punilla: secuestraron <b>drogas</b> en Carlos Paz y Capilla del Monte",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F1%2Foperativos-en-punilla-secuestraron-drogas-en-carlos-paz-y-capilla-del-monte-254040.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw3njCAqodjixWlR8Nk231kp"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "contrabando",
+        "mercadería ilegal",
+        "policia"
+      ],
+      "published": "2026-07-01T11:11:30Z",
+      "snippet": "Corrupción policial: desbaratan una banda de federales que cobraba coimas al contrabando Los efectivos pertenecientes a la delegación de Tucumán exigían dinero en efectivo para dejar pasar tours de compras con mercadería ilegal. Los efectivos pertenecientes a la delegación de Tucumán exigían dinero …",
+      "text": "Corrupción policial: desbaratan una banda de federales que cobraba coimas al <b>contrabando</b> Corrupción policial: desbaratan una banda de federales que cobraba coimas al contrabando Los efectivos pertenecientes a la delegación de Tucumán exigían dinero en efectivo para dejar pasar tours de compras con mercadería ilegal. Los efectivos pertenecientes a la delegación de Tucumán exigían dinero en efectivo para dejar pasar tours de compras con mercadería ilegal. Los efectivos pertenecientes a la delegación de Tucumán exigían dinero en efectivo para dejar pasar tours de compras con mercadería ilegal.",
+      "title": "Corrupción policial: desbaratan una banda de federales que cobraba coimas al <b>contrabando</b>",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.noticiasnet.com.ar%2Fnoticias%2F2026%2F07%2F01%2F210691-corrupcion-policial-desbaratan-una-banda-de-federales-que-cobraba-coimas-al-contrabando&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2OyliQPVsysolK_IbyFIO3"
+    }
+  ],
   "seen": {
     "00072194b4acf79e83cdce56602b53a5efa9076b7d7d24fb075d32016f47a30a": "2026-06-05T19:53:40.443507+00:00",
     "006220312def3ca2390fc2d98ced6394fa33cd09d9f5a1f1805ff3dbc8e7fa6a": "2026-06-04T20:02:55.576948+00:00",
@@ -502,6 +528,7 @@
     "7fe70779bd9cd71f16604bc16bc67a42cd4420f2826bf00be2c218dc655bbc92": "2026-06-13T21:13:41.557007+00:00",
     "7ff36158a82e839dfe7b95e16ec130feb9814cd508630efed20285e65ba7df1f": "2026-06-29T00:06:24.983273+00:00",
     "800c1581f5d6be3f963634a605679bff96452152ef42d8f151f316c0c31d2a4b": "2026-06-19T15:10:13.183286+00:00",
+    "816cba43fb8b0ef6a47db8a608967dffb7bc3cdb66afafeb777d34fa3ead3ec2": "2026-07-01T15:41:46.474887+00:00",
     "817fae9cb05647263a736ad8cda5f2dbcaeb34f65643a149acee35e622b5bf3d": "2026-06-04T14:54:54.767063+00:00",
     "81b58e017e0933005ca8adc956a1a6efde1810b1fcf536aadea70f266c21ef30": "2026-06-05T19:53:40.438841+00:00",
     "82445ed158874a74ba6da8dae46732a2214021ce341f174be89442e779ea1e2f": "2026-06-18T03:44:27.081758+00:00",
@@ -821,6 +848,7 @@
     "cf2e3b12eeae1085ff24f00cccc009e6c8ec28497abe148373d53bf4636ee7f5": "2026-06-24T16:19:15.848756+00:00",
     "d0293444935c4c1a0b6bff81f2dfe87ca273b7efd7408b3260f2e3af7da63d18": "2026-06-03T03:53:28.854319+00:00",
     "d0435e8e72922f3d98b49e803c99d9b351f0d3f31cd7ccc28f3e26907018555b": "2026-06-10T22:01:45.351591+00:00",
+    "d05c2a148d913698a9b73d78b46eafc21ac13fbcd5739fc156c1defaaaf2191a": "2026-07-01T15:41:46.474435+00:00",
     "d06a871e71ae3dd2e543ead4b51bca1569566f884f679e57c27df63d85557de6": "2026-06-28T04:44:18.919020+00:00",
     "d17dc19323af2d8c567ce9ed2d3cac24a37d1653380f5d3b447daa1208c46e08": "2026-06-16T15:07:58.338091+00:00",
     "d19215caa21a4f62f09c0ab1ca4f13d0d85a5306ae572e52adf0634645bf05db": "2026-06-11T16:53:18.725263+00:00",
