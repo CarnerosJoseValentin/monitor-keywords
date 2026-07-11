@@ -1,6 +1,41 @@
 {
   "last_report_date": "2026-07-11",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "policia"
+      ],
+      "published": "2026-07-11T13:52:14Z",
+      "snippet": "La FPA reforzó los controles sobre la autopista Córdoba –Carlos Paz y otras rutas La Fuerza Policial Antinarcotráfico (FPA) llevó adelante una nueva serie de controles vehiculares preventivos en diferentes sectores de la&nbsp;... La Fuerza Policial Antinarcotráfico (FPA) llevó adelante una nueva ser…",
+      "text": "La FPA reforzó los controles sobre la autopista <b>Córdoba</b>–Carlos Paz y otras rutas La FPA reforzó los controles sobre la autopista Córdoba –Carlos Paz y otras rutas La Fuerza Policial Antinarcotráfico (FPA) llevó adelante una nueva serie de controles vehiculares preventivos en diferentes sectores de la&nbsp;... La Fuerza Policial Antinarcotráfico (FPA) llevó adelante una nueva serie de controles vehiculares preventivos en diferentes sectores de la&nbsp;... La Fuerza Policial Antinarcotráfico (FPA) llevó adelante una nueva serie de controles vehiculares preventivos en diferentes sectores de la&nbsp;...",
+      "title": "La FPA reforzó los controles sobre la autopista <b>Córdoba</b>–Carlos Paz y otras rutas",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F11%2Fla-fpa-reforzo-los-controles-sobre-la-autopista-cordobacarlos-paz-y-otras-rutas-254842.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2_4xsPS0tDTtH_Qg8sLXxM"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-07-11T13:43:02Z",
+      "snippet": "Operativo antidrogas en uno de los principales accesos a Carlos Paz ... San Luis . › Notas relacionadas. Dos personas lograron escapar de un ... Autopista Córdoba –Carlos Paz: incautaron drogas durante un control. ... San Luis . › Notas relacionadas. Dos personas lograron escapar de un ... Autopista…",
+      "text": "Operativo antidrogas en uno de los principales accesos a Carlos Paz Operativo antidrogas en uno de los principales accesos a Carlos Paz ... San Luis . › Notas relacionadas. Dos personas lograron escapar de un ... Autopista Córdoba –Carlos Paz: incautaron drogas durante un control. ... San Luis . › Notas relacionadas. Dos personas lograron escapar de un ... Autopista Córdoba –Carlos Paz: incautaron drogas durante un control. ... San Luis . › Notas relacionadas. Dos personas lograron escapar de un ... Autopista Córdoba –Carlos Paz: incautaron drogas durante un control.",
+      "title": "Operativo antidrogas en uno de los principales accesos a Carlos Paz",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F11%2Foperativo-antidrogas-en-uno-de-los-principales-accesos-a-carlos-paz-254838.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw0A57qUfpIKj7347oJqvTpn"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-07-11T12:25:19Z",
+      "snippet": "Trascendieron detalles de las oscuras finanzas de Claudio Barrelier: &quot; Drogas y...&quot; - Vía País La Justicia de Córdoba rastrea el origen de los fondos del principal imputado en el femicidio de Agostina Vega. Becas, gastos excesivos y&nbsp;... La Justicia de Córdoba rastrea el origen de los …",
+      "text": "Trascendieron detalles de las oscuras finanzas de Claudio Barrelier: &quot;<b>Drogas</b> y...&quot; - Vía País Trascendieron detalles de las oscuras finanzas de Claudio Barrelier: &quot; Drogas y...&quot; - Vía País La Justicia de Córdoba rastrea el origen de los fondos del principal imputado en el femicidio de Agostina Vega. Becas, gastos excesivos y&nbsp;... La Justicia de Córdoba rastrea el origen de los fondos del principal imputado en el femicidio de Agostina Vega. Becas, gastos excesivos y&nbsp;... La Justicia de Córdoba rastrea el origen de los fondos del principal imputado en el femicidio de Agostina Vega. Becas, gastos excesivos y&nbsp;...",
+      "title": "Trascendieron detalles de las oscuras finanzas de Claudio Barrelier: &quot;<b>Drogas</b> y...&quot; - Vía País",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fviapais.com.ar%2Fcordoba%2Ftrascendieron-detalles-oscuras-finanzas-claudio-barrelier-drogas_0_HHRPQBnNjY.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2jmamTcvrHsTJToWeAwRcc"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -195,6 +230,7 @@
     "2b4e1d4f28e974be1762c1df93dfc33df84415a74c727a405e78350ac8796f7e": "2026-07-10T18:23:48.371720+00:00",
     "2b84e949fde7e976c310afdd741b745338806d17b935d166e155294da5598f21": "2026-06-25T14:28:06.271839+00:00",
     "2bab92a8eaed2f9c37d5e64a9f04d391ceeec1a9ef2949ab71e02f6ec08b20b7": "2026-06-26T16:14:21.126824+00:00",
+    "2bbb54c8610301ae469f8bdf5708f96ca2f2dbc138d674b70da72d4c88f31087": "2026-07-11T14:50:59.862305+00:00",
     "2bd4cad96620d29b068fb7cf336778561595be072502e196ae728f662f3613a6": "2026-06-25T17:10:40.066559+00:00",
     "2bebfa751c09e1e1ff71e89f6272d2fe2890f43c92e53a7b6ecf294a954fa7eb": "2026-06-23T17:51:03.468015+00:00",
     "2c055da7771e373fd1adcd6fbfe5bb68918f03cf4c6f74f59612cb41e6c60c13": "2026-06-17T15:21:44.804968+00:00",
@@ -475,6 +511,7 @@
     "71f1f4823462e49932e8997613456189d7e6a509518c13858f2f85b31bf27cb4": "2026-06-14T17:18:45.104736+00:00",
     "72982c1dc42e48a79adab4a741a5981e01f7495349501a5717cd4c992b7b3404": "2026-06-17T15:21:44.966639+00:00",
     "729892fc088812f63245e6676f98d820496376727fad41ee9002368ca080e4b6": "2026-06-19T06:18:24.290130+00:00",
+    "72b5f7905bc1922c66eeb95c8bb8cb9436b24d11659ce76e96131c5d6deea5f7": "2026-07-11T14:50:59.861878+00:00",
     "730ab952edba5bf9e3ef12f4d63543181188b8dd465869daa1d264c1df45e8a8": "2026-06-16T19:32:43.301919+00:00",
     "73204b952bd37fb7753e04efa6df8198c1de348384c741feaba614fdfd6f1ad1": "2026-06-30T00:02:25.078314+00:00",
     "734453ba30b2e4a1206693656e1780c34140ac94b46686fd0e398d2f25fb6c7e": "2026-06-23T17:51:03.467200+00:00",
@@ -535,6 +572,7 @@
     "7fe70779bd9cd71f16604bc16bc67a42cd4420f2826bf00be2c218dc655bbc92": "2026-06-13T21:13:41.557007+00:00",
     "7ff36158a82e839dfe7b95e16ec130feb9814cd508630efed20285e65ba7df1f": "2026-06-29T00:06:24.983273+00:00",
     "800c1581f5d6be3f963634a605679bff96452152ef42d8f151f316c0c31d2a4b": "2026-06-19T15:10:13.183286+00:00",
+    "81207d8ec2676c64270944475617abe69c4eaa6a105b000553dd827bbace838c": "2026-07-11T14:50:59.862754+00:00",
     "816cba43fb8b0ef6a47db8a608967dffb7bc3cdb66afafeb777d34fa3ead3ec2": "2026-07-01T15:41:46.474887+00:00",
     "82377b32d6d3ef694fe7f5bd4b2c552101fc5ca85f2d7d07560622ad786c64c2": "2026-07-06T18:53:38.050902+00:00",
     "82445ed158874a74ba6da8dae46732a2214021ce341f174be89442e779ea1e2f": "2026-06-18T03:44:27.081758+00:00",
