@@ -1,6 +1,42 @@
 {
   "last_report_date": "2026-07-12",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "policia"
+      ],
+      "published": "2026-07-12T14:48:56Z",
+      "snippet": "Nueve detenidos tras los festejos por la victoria de argentina en Río Cuarto La Policía desplegó un amplio operativo en el micro y macrocentro de la ciudad. Durante los procedimientos secuestraron un revólver, armas blancas&nbsp;... La Policía desplegó un amplio operativo en el micro y macrocentro d…",
+      "text": "Nueve detenidos tras los festejos por la victoria de argentina en Río Cuarto Nueve detenidos tras los festejos por la victoria de argentina en Río Cuarto La Policía desplegó un amplio operativo en el micro y macrocentro de la ciudad. Durante los procedimientos secuestraron un revólver, armas blancas&nbsp;... La Policía desplegó un amplio operativo en el micro y macrocentro de la ciudad. Durante los procedimientos secuestraron un revólver, armas blancas&nbsp;... La Policía desplegó un amplio operativo en el micro y macrocentro de la ciudad. Durante los procedimientos secuestraron un revólver, armas blancas&nbsp;...",
+      "title": "Nueve detenidos tras los festejos por la victoria de argentina en Río Cuarto",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F12%2Fnueve-detenidos-tras-los-festejos-por-la-victoria-de-argentina-en-rio-cuarto-254911.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw1n-KHmuGYGtbzllu2FAsSO"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "cocaína"
+      ],
+      "published": "2026-07-12T13:46:47Z",
+      "snippet": "La FPA secuestró drogas durante patrullajes en cuatro ciudades de Córdoba Finalmente, en Marcos Juárez, los efectivos secuestraron cocaína durante el control de un hombre de 31 años sobre avenida Mendoza al 1700, en barrio&nbsp;... Finalmente, en Marcos Juárez, los efectivos secuestraron cocaína dur…",
+      "text": "La FPA secuestró <b>drogas</b> durante patrullajes en cuatro ciudades de <b>Córdoba</b> La FPA secuestró drogas durante patrullajes en cuatro ciudades de Córdoba Finalmente, en Marcos Juárez, los efectivos secuestraron cocaína durante el control de un hombre de 31 años sobre avenida Mendoza al 1700, en barrio&nbsp;... Finalmente, en Marcos Juárez, los efectivos secuestraron cocaína durante el control de un hombre de 31 años sobre avenida Mendoza al 1700, en barrio&nbsp;... Finalmente, en Marcos Juárez, los efectivos secuestraron cocaína durante el control de un hombre de 31 años sobre avenida Mendoza al 1700, en barrio&nbsp;...",
+      "title": "La FPA secuestró <b>drogas</b> durante patrullajes en cuatro ciudades de <b>Córdoba</b>",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F12%2Fla-fpa-secuestro-drogas-durante-patrullajes-en-cuatro-ciudades-de-cordoba-254903.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw1P31a_pmccDStCj11-vZWO"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "cocaína"
+      ],
+      "published": "2026-07-12T13:12:44Z",
+      "snippet": "Controles de la FPA en cuatro ciudades terminaron con secuestros de drogas Los procedimientos se realizaron en Río Cuarto, San Francisco, Marcos Juárez y la ciudad de Córdoba . Se incautaron dosis de cocaína,&nbsp;... Los procedimientos se realizaron en Río Cuarto, San Francisco, Marcos Juárez y la …",
+      "text": "Controles de la FPA en cuatro ciudades terminaron con secuestros de <b>drogas</b> Controles de la FPA en cuatro ciudades terminaron con secuestros de drogas Los procedimientos se realizaron en Río Cuarto, San Francisco, Marcos Juárez y la ciudad de Córdoba . Se incautaron dosis de cocaína,&nbsp;... Los procedimientos se realizaron en Río Cuarto, San Francisco, Marcos Juárez y la ciudad de Córdoba . Se incautaron dosis de cocaína,&nbsp;... Los procedimientos se realizaron en Río Cuarto, San Francisco, Marcos Juárez y la ciudad de Córdoba . Se incautaron dosis de cocaína,&nbsp;...",
+      "title": "Controles de la FPA en cuatro ciudades terminaron con secuestros de <b>drogas</b>",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F12%2Fcontroles-de-la-fpa-en-cuatro-ciudades-terminaron-con-secuestros-de-drogas-254895.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2lS5x3hg7syHvlEGmWskCw"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -471,6 +507,7 @@
     "719c6cb4067df24d3c4caa430406ec315f74ea0e76ebf3f2c53b94938ada26ae": "2026-06-15T16:18:33.001759+00:00",
     "71b67dfe2e356f3d1c6b332c08b9dd6571bacb36f7ffa76b64bdaec3a6034bff": "2026-06-27T22:00:40.135154+00:00",
     "71cb7721d277e25ec9d82bb70fd75d4119c755538ad8f02e3c7b25416bdf3bbf": "2026-06-22T06:27:17.308035+00:00",
+    "71d8d85a2062ccefa9d1d734d2446ddd6ac5c1d74459c918700064b82711dc4c": "2026-07-12T15:57:20.045737+00:00",
     "71f1f4823462e49932e8997613456189d7e6a509518c13858f2f85b31bf27cb4": "2026-06-14T17:18:45.104736+00:00",
     "72982c1dc42e48a79adab4a741a5981e01f7495349501a5717cd4c992b7b3404": "2026-06-17T15:21:44.966639+00:00",
     "729892fc088812f63245e6676f98d820496376727fad41ee9002368ca080e4b6": "2026-06-19T06:18:24.290130+00:00",
@@ -578,6 +615,7 @@
     "881edba77e75636a749dfadd963f5dde98c5300361e6455335f4674822b9ba11": "2026-06-25T21:46:01.194505+00:00",
     "88529d82160717e5ae09f607e3c2dbcfe1bffcd13f6dfd8c8e014e44a2cc88d0": "2026-06-29T17:34:26.176327+00:00",
     "88767ed81f068c56f451fb401dc7d3b12a529d4557db9f1b45bb202ad0bce418": "2026-06-17T18:13:18.904492+00:00",
+    "898da7c6879be3adecbd9064e3d42b16e5a63dcc205518cd20a524049156dd97": "2026-07-12T15:57:20.046602+00:00",
     "89a2652767bc3621e374b324dfbde7c8cb5d4ba2aa656b9bba55b01ddabb837b": "2026-06-19T22:54:42.571389+00:00",
     "89d21cfd91b557a0e828a5cdebcb21406ba2c8fcc2b93f1b00dd452e24572a1c": "2026-07-02T19:21:14.881014+00:00",
     "89e959cddffb2d85a064ddc49681d5897b8334617853070a4ea15839f3baaf1f": "2026-06-14T15:50:28.932439+00:00",
@@ -792,6 +830,7 @@
     "c0338ad3a845d77b7cfef96ab0945752aff9fed302acd46750e78e4f82979dd2": "2026-06-22T17:38:48.743505+00:00",
     "c03bac961bfd3dc160c63c010c43c17562782be7f256b937db556900b1a4a130": "2026-07-02T17:44:20.796819+00:00",
     "c078bf2b790261b761fb96542b90909fbcd7b4c9c48e70029809e436e1be0d35": "2026-06-27T22:00:40.135577+00:00",
+    "c0ab8901537dcdb6d5ba0cb4040b1df90dee3be2ab3e4b91f2453b4e8305136b": "2026-07-12T15:57:20.046203+00:00",
     "c176d8c025e817c087823d683b023f9aa14045341b93e6183c665ca08c264b0b": "2026-06-30T15:27:23.471027+00:00",
     "c1944f0a6b50a1fb863b73cbdd4733c6c63658be97517fa1789874e5594b8b96": "2026-07-03T09:55:28.447171+00:00",
     "c22261bb6f5cec1bf9c562336e9f43e3ec98264498809ec942bf540e0fe83300": "2026-06-29T17:34:26.175472+00:00",
