@@ -1,6 +1,32 @@
 {
   "last_report_date": "2026-07-14",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "contrabando",
+        "narcotráfico",
+        "drogas",
+        "aeropuerto"
+      ],
+      "published": "2026-07-14T12:42:25Z",
+      "snippet": "Descubrieron a una banda dedicada al tráfico de drogas sintéticas y lavado - La Voz ... aeropuerto de Ezeiza cuando el fisco detuvo a una ... narcotráfico al sistema financiero legal para costear la logística del contrabando . ... aeropuerto de Ezeiza cuando el fisco detuvo a una ... narcotráfico al…",
+      "text": "Descubrieron a una banda dedicada al tráfico de <b>drogas</b> sintéticas y lavado - La Voz Descubrieron a una banda dedicada al tráfico de drogas sintéticas y lavado - La Voz ... aeropuerto de Ezeiza cuando el fisco detuvo a una ... narcotráfico al sistema financiero legal para costear la logística del contrabando . ... aeropuerto de Ezeiza cuando el fisco detuvo a una ... narcotráfico al sistema financiero legal para costear la logística del contrabando . ... aeropuerto de Ezeiza cuando el fisco detuvo a una ... narcotráfico al sistema financiero legal para costear la logística del contrabando .",
+      "title": "Descubrieron a una banda dedicada al tráfico de <b>drogas</b> sintéticas y lavado - La Voz",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.lavoz.com.ar%2Fsucesos%2Fdescubrieron-banda-dedicada-trafico-drogas-sinteticas-lavado_0_CnoZsOEtXu.html&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw3NiEXl54OOdQQyZUaoPKR4"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico"
+      ],
+      "published": "2026-07-14T12:14:57Z",
+      "snippet": "Procesaron a “Narigón” Vázquez, el presunto jefe narco que estuvo prófugo ocho años La pesquisa que derivó en el procesamiento de Vázquez se originó a partir de distintas investigaciones federales sobre narcotráfico desarrolladas&nbsp;... La pesquisa que derivó en el procesamiento de Vázquez se orig…",
+      "text": "Procesaron a “Narigón” Vázquez, el presunto jefe narco que estuvo prófugo ocho años Procesaron a “Narigón” Vázquez, el presunto jefe narco que estuvo prófugo ocho años La pesquisa que derivó en el procesamiento de Vázquez se originó a partir de distintas investigaciones federales sobre narcotráfico desarrolladas&nbsp;... La pesquisa que derivó en el procesamiento de Vázquez se originó a partir de distintas investigaciones federales sobre narcotráfico desarrolladas&nbsp;... La pesquisa que derivó en el procesamiento de Vázquez se originó a partir de distintas investigaciones federales sobre narcotráfico desarrolladas&nbsp;...",
+      "title": "Procesaron a “Narigón” Vázquez, el presunto jefe narco que estuvo prófugo ocho años",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.lavoz.com.ar%2Fsucesos%2Fprocesaron-narigon-vazquez-presunto-jefe-narco-profugo-anos_0_lwtuW8gEGd.html&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw3IFT2WaLcwlJCJjOcvNz9D"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -394,6 +420,7 @@
     "5c55add103f0d81fa25d8336e579a475379ce0d45a7e129ed4997add33fed94d": "2026-06-16T19:32:43.558406+00:00",
     "5c57d6abf7de551961473d3746297fc0af795a5ce902a27c211442640dee4e9d": "2026-07-06T16:20:46.305504+00:00",
     "5c7d4a9a797645b51af80f0a2ef8b03926a997bc461b92535cf926fc0effc015": "2026-06-17T23:21:56.792045+00:00",
+    "5e5cb70fa0df2d51e1c2e508ac0f8ad52b668bcf4ca13f1aa9decc20169e29cf": "2026-07-14T14:47:12.935039+00:00",
     "5eb75e96b6cf8c0884cb783a0dec6d032599c7cc81c0bf888d433b9a8c89f1c7": "2026-07-11T02:26:49.881320+00:00",
     "5f03908e14c6aae68a842cfc6eb60c1a6da24f94ab47e3f1d09244b941b9c77c": "2026-06-30T19:52:08.730101+00:00",
     "5f3222638e57157d7405745c41f8fb18e8aa34752cf7730e13f40bd23b0c183f": "2026-06-30T17:50:37.548483+00:00",
@@ -440,6 +467,7 @@
     "6a0adbc5e7be547a3072b5e06a7f64a19b8f88748e6c874bc1c286911fa37fde": "2026-07-11T13:13:33.149392+00:00",
     "6b2279d41894544715dd2ef21355f7c1e5d85d6cafe0fd2d76ea96a4b5ca8e96": "2026-06-15T16:18:33.234117+00:00",
     "6b536ba78900ce82e11dec48208728b48eb7bd6af25338179169b97006be3074": "2026-06-25T00:09:42.339325+00:00",
+    "6b699b4ab5c2f06720a86560e168b626a1699b26b53b8fa9a9a2e4ae741e3bb2": "2026-07-14T14:47:12.935514+00:00",
     "6b98b6702d43b476bad4bc8c1621e248b5cb54ca24c7a5301be66eae6f027e71": "2026-06-19T15:10:13.182387+00:00",
     "6b9a2963ffc558133f004b1dd795bfbf514847e400978e094835c8f7d5a070db": "2026-06-26T18:50:21.315316+00:00",
     "6c24376583bd65a74dcfcf6dee8299d49010e0d6e1c4dc921beda8029ec4014e": "2026-06-21T18:20:27.666741+00:00",
@@ -491,7 +519,6 @@
     "76d5b92bcfbb8b93a53b663e4957690f3bcb2c2203f855dcf3099e98976b329c": "2026-06-25T17:10:40.072948+00:00",
     "7707a2ddc7f883fd32a0fdbc6c72f978658c8d39b0e5660137fff5150312399c": "2026-07-02T19:21:14.882796+00:00",
     "77175688901cbee4d36e3952c7b19fc08529141db7d142d9f9d858fbc6201a7a": "2026-06-20T05:11:21.963331+00:00",
-    "771e8fc740dd8653e4823ea2f09a5aba0955bcb4fa2e9cd40d646a251b6abe7f": "2026-06-14T14:00:34.056422+00:00",
     "776835a410bd951dcbabf1da1e8d22b511ab6cbf6851ee3ef4b8df1de91c449e": "2026-06-19T15:10:13.183730+00:00",
     "779a34493a6443ecb9aeeec494afd22d69d327c27edf94dc5863d33911d532c9": "2026-07-06T22:11:58.257028+00:00",
     "77c45eeebb31b21e7bebc0b0771fb579b4b65867d23f0a6f4569cba520e05bd5": "2026-07-13T02:33:44.624169+00:00",
@@ -964,7 +991,6 @@
     "ede007343292bc9487a066bace61d98a724f2fbbc69cb8af7c8a6cac304c4ff8": "2026-07-08T17:26:40.977560+00:00",
     "ededda09b72bc43c86026a8afc8e6597f15c72163e6afc29a197408b48f29355": "2026-07-07T19:51:47.312707+00:00",
     "ee29fded80b4fd36acfcaf05e2e66df4bd48f82255d415d6761b1c27ec934af9": "2026-06-19T00:24:40.995466+00:00",
-    "ee5ae2dbd98922c0c512d071d74178d167a1e1e4db5fafbda35ef726706dc686": "2026-06-14T14:00:34.058407+00:00",
     "ee621676a603bb51e39774ba56a4eaaf18f58031884f11c9a5acc6158a042dfd": "2026-06-26T20:45:15.336045+00:00",
     "ee62944b5b26f23e3c4c84f5ac09f300b675670555f36c12c5f96c8a7b3617b1": "2026-06-16T09:24:47.214845+00:00",
     "ee64d5bfd73d3f528b35872277968eb9ff2b757f991f3a44dc8161bcad529198": "2026-07-06T16:20:46.308297+00:00",
