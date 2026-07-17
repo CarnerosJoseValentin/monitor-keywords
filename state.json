@@ -1,6 +1,32 @@
 {
   "last_report_date": "2026-07-17",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas",
+        "policia"
+      ],
+      "published": "2026-07-17T13:27:24Z",
+      "snippet": "Córdoba: cayeron por vender drogas en Cooperativa El Progreso y Ciudad de Mis Sueños Tras una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico del Primer Turno, efectivos de la Fuerza Policial Antinarcotráfico&nbsp;... Tras una investigación dirigida por la Fiscalía de Lucha co…",
+      "text": "Córdoba: cayeron por vender <b>drogas</b> en Cooperativa El Progreso y Ciudad de Mis Sueños Córdoba: cayeron por vender drogas en Cooperativa El Progreso y Ciudad de Mis Sueños Tras una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico del Primer Turno, efectivos de la Fuerza Policial Antinarcotráfico&nbsp;... Tras una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico del Primer Turno, efectivos de la Fuerza Policial Antinarcotráfico&nbsp;... Tras una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico del Primer Turno, efectivos de la Fuerza Policial Antinarcotráfico&nbsp;...",
+      "title": "Córdoba: cayeron por vender <b>drogas</b> en Cooperativa El Progreso y Ciudad de Mis Sueños",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.lavoz.com.ar%2Fsucesos%2Fcordoba-cayeron-vender-drogas-cooperativa-progreso-ciudad-suenos_0_gAyw3X1H4x.html&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw2Naa6ehvV1LzFN-X2HadLf"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "cocaína"
+      ],
+      "published": "2026-07-17T12:08:28Z",
+      "snippet": "Detuvieron a una pareja por vender cocaína y marihuana en Córdoba: cómo operaban El allanamiento fue realizado por la FPA en barrio Cooperativa El Progreso. En la vivienda secuestraron dosis de drogas , dinero, una balanza&nbsp;... El allanamiento fue realizado por la FPA en barrio Cooperativa El Pr…",
+      "text": "Detuvieron a una pareja por vender cocaína y marihuana en Córdoba: cómo operaban Detuvieron a una pareja por vender cocaína y marihuana en Córdoba: cómo operaban El allanamiento fue realizado por la FPA en barrio Cooperativa El Progreso. En la vivienda secuestraron dosis de drogas , dinero, una balanza&nbsp;... El allanamiento fue realizado por la FPA en barrio Cooperativa El Progreso. En la vivienda secuestraron dosis de drogas , dinero, una balanza&nbsp;... El allanamiento fue realizado por la FPA en barrio Cooperativa El Progreso. En la vivienda secuestraron dosis de drogas , dinero, una balanza&nbsp;...",
+      "title": "Detuvieron a una pareja por vender cocaína y marihuana en Córdoba: cómo operaban",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Feldoce.tv%2Factualidad%2F2026%2F07%2F17%2Fdetuvieron-a-una-pareja-por-vender-cocaina-y-marihuana-en-cordoba-como-operaban%2F&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw3U01PZNZL2-var3FtN0Xjq"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -335,6 +361,7 @@
     "4ba6b2ccf5b96bdb6654fd8bc30e0abd87df2e69cb6a6bced35a86e3c5b58394": "2026-06-29T22:54:29.884541+00:00",
     "4c02bed32b762e42afe62f9265b542792db80044cfb985c468082cf98993baa2": "2026-06-24T16:19:15.849661+00:00",
     "4c535b9b9a0bbc6a9def4ef324514232d20e3741c69699555c5dab1531f94883": "2026-07-14T05:27:25.382032+00:00",
+    "4c72bd7e2509b8003c2904c515a9d2f0f6f5b49277d0be171b3c95b85b149ed2": "2026-07-17T14:41:31.082017+00:00",
     "4ca26c4dbd34f026a27d50275884e8f260cea1a8260ea4fd960e8979e0f26ec2": "2026-06-25T14:28:06.271063+00:00",
     "4cc3b08cb42b568fab0fa507b5cfbb00adddd70ede16c29b4be7d7fa480a19fc": "2026-07-03T17:23:00.478060+00:00",
     "4d05bb55052068df8eed664dc85108f4269e6a50b67e7aeb3b974bd612c82ab2": "2026-07-07T04:50:25.203820+00:00",
@@ -644,6 +671,7 @@
     "97eafd3ef3e9601a6faddbde760179a225895b415d19688b31fc1c2d5a142417": "2026-06-26T18:50:21.315728+00:00",
     "97f9b252ab2b11d3324250c33927d93e47d7baf7231fd23f3db537293a5f17c5": "2026-06-19T17:54:32.766045+00:00",
     "9811db7a584282f0b38c4e4d2695fcc8c267545b1f16631d93b6f7932f0fce1a": "2026-06-19T15:10:13.185355+00:00",
+    "983b9f4600c41e47f84a79328924e95858c75f3a207671bbf5525f8ab2d75241": "2026-07-17T14:41:31.082490+00:00",
     "984b075214740a03454e7714a65419fdfa9dac163f70ab12e2d86b55c653d99a": "2026-07-04T22:59:00.797987+00:00",
     "98a6c42c3cb12a620f2ed7afe10e5ddbb26326df85dd97cf493e584ff62649bf": "2026-07-13T21:54:14.357258+00:00",
     "98c58f702d999ea3f90bb088d210ab051adaf1d4e3e2c09e4985b1e0f09bd8e0": "2026-06-25T19:57:14.749561+00:00",
