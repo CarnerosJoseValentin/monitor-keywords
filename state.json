@@ -1,6 +1,30 @@
 {
   "last_report_date": "2026-07-19",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas"
+      ],
+      "published": "2026-07-19T08:08:01Z",
+      "snippet": "Un kiosco funcionaba como pantalla para vender drogas en La Falda: dos detenidos Por disposición de la Fiscalía de Lucha contra el Narcotráfico de Cosquín, ambos detenidos fueron trasladados a sede judicial, acusados de una&nbsp;... Por disposición de la Fiscalía de Lucha contra el Narcotráfico de C…",
+      "text": "Un kiosco funcionaba como pantalla para vender <b>drogas</b> en La Falda: dos detenidos Un kiosco funcionaba como pantalla para vender drogas en La Falda: dos detenidos Por disposición de la Fiscalía de Lucha contra el Narcotráfico de Cosquín, ambos detenidos fueron trasladados a sede judicial, acusados de una&nbsp;... Por disposición de la Fiscalía de Lucha contra el Narcotráfico de Cosquín, ambos detenidos fueron trasladados a sede judicial, acusados de una&nbsp;... Por disposición de la Fiscalía de Lucha contra el Narcotráfico de Cosquín, ambos detenidos fueron trasladados a sede judicial, acusados de una&nbsp;...",
+      "title": "Un kiosco funcionaba como pantalla para vender <b>drogas</b> en La Falda: dos detenidos",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fviapais.com.ar%2Fcarlos-paz%2Fkiosco-funcionaba-pantalla-vender-drogas-falda-detenidos_0_ZO0TSOV1Vo.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2DVMX3lcXHabNPQaKgIsuB"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico"
+      ],
+      "published": "2026-07-19T08:02:26Z",
+      "snippet": "Una pistola hallada en una causa por narcotráfico en Salta puso bajo la lupa el arsenal de ... La Justicia de Salta detectó que el arma secuestrada figura a nombre de la fuerza sanjuanina. En San Juan , el Gobierno provincial ordenó una&nbsp;... La Justicia de Salta detectó que el arma secuestrada f…",
+      "text": "Una pistola hallada en una causa por <b>narcotráfico</b> en Salta puso bajo la lupa el arsenal de ... Una pistola hallada en una causa por narcotráfico en Salta puso bajo la lupa el arsenal de ... La Justicia de Salta detectó que el arma secuestrada figura a nombre de la fuerza sanjuanina. En San Juan , el Gobierno provincial ordenó una&nbsp;... La Justicia de Salta detectó que el arma secuestrada figura a nombre de la fuerza sanjuanina. En San Juan , el Gobierno provincial ordenó una&nbsp;... La Justicia de Salta detectó que el arma secuestrada figura a nombre de la fuerza sanjuanina. En San Juan , el Gobierno provincial ordenó una&nbsp;...",
+      "title": "Una pistola hallada en una causa por <b>narcotráfico</b> en Salta puso bajo la lupa el arsenal de ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.telesoldiario.com%2F479531-una-pistola-hallada-en-una-causa-por-narcotrafico-en-salta-puso-bajo-la-lupa-el-arsenal-de-la-policia-de-san-juan&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw30ivGhCGluLzGGikrpxEAP"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -373,6 +397,7 @@
     "5a83838a6f4da8d747a96a568d972cae7213a2a0b3b2afe3e5bdb760a404f391": "2026-06-26T18:50:21.459367+00:00",
     "5a84363c5d36f0659434f6877fb048ab5068c1affadaf2ef11fa491c137d79a5": "2026-06-26T13:09:47.816703+00:00",
     "5b0b73aa5764e8137b13b2c824d90d72440c7660e9f4f39c3e9fbf55d1f2af34": "2026-06-19T17:54:33.161957+00:00",
+    "5b1495e0ba2f24a129ddce995d2e26e73777caaec672d4fa9f9343bebe980953": "2026-07-19T14:53:00.334177+00:00",
     "5b303a9401f35d05294c06ba768cb070b85af5af52c5224d1f8f3cf1b3733dee": "2026-07-03T23:00:20.172211+00:00",
     "5b41f8b931842fddcac01ef6f2cb68573fbb468e5ac3aeb35e6d525bf6382a9b": "2026-07-08T17:26:40.459847+00:00",
     "5baec086baf9399beaad8a9fa48fbe8f3a0747d7a21397bab0db3b0d299e8833": "2026-07-17T16:12:50.892803+00:00",
@@ -871,6 +896,7 @@
     "dd0bfbb63054ee07e565ce23ed7ffd735206ce99d83230d61530913b9400b4b6": "2026-06-20T00:09:54.204970+00:00",
     "dd10454afc20feca12b6954ef75d20912ebc050c0cc9c22b7d95e8631d6be23d": "2026-06-25T19:57:14.748210+00:00",
     "dd46b01b57b18224661e4297e4bdddf7f30822a4a10d030d762f03666de5eba1": "2026-07-08T04:12:17.274628+00:00",
+    "dd4efd52c6604d23e8fa86d26c29ccc48a166a2a86ca6c9dff776e2051d4524e": "2026-07-19T14:53:00.334650+00:00",
     "ddb9759a5c8dd7aeab11e4dcb79cdd05a736164d0ecc3804fbf455fa3498755a": "2026-07-02T17:44:20.983921+00:00",
     "dde5fd85285a7d6a9c04c1bac2885fa102b657e465ad39622e4552594ba664dd": "2026-07-06T22:11:58.254739+00:00",
     "ddeb7a9012748ca58ae4bcde3e07eb659b994031486a187461717c7c7131c925": "2026-06-30T23:09:49.624299+00:00",
