@@ -1,6 +1,18 @@
 {
   "last_report_date": "2026-07-23",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "aeropuerto"
+      ],
+      "published": "2026-07-23T08:49:31Z",
+      "snippet": "&quot;Un genio con todos&quot;: la anécdota de una sanjuanina tras la visita de Thiago Almada | Telesol Diario ... Aeropuerto Domingo Faustino Sarmiento, quien ... Durante la jornada realizó una visita a dos de los principales centros de fe popular de San Juan &nbsp;... ... Aeropuerto Domingo Fausti…",
+      "text": "&quot;Un genio con todos&quot;: la anécdota de una sanjuanina tras la visita de Thiago Almada | Telesol Diario &quot;Un genio con todos&quot;: la anécdota de una sanjuanina tras la visita de Thiago Almada | Telesol Diario ... Aeropuerto Domingo Faustino Sarmiento, quien ... Durante la jornada realizó una visita a dos de los principales centros de fe popular de San Juan &nbsp;... ... Aeropuerto Domingo Faustino Sarmiento, quien ... Durante la jornada realizó una visita a dos de los principales centros de fe popular de San Juan &nbsp;... ... Aeropuerto Domingo Faustino Sarmiento, quien ... Durante la jornada realizó una visita a dos de los principales centros de fe popular de San Juan &nbsp;...",
+      "title": "&quot;Un genio con todos&quot;: la anécdota de una sanjuanina tras la visita de Thiago Almada | Telesol Diario",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.telesoldiario.com%2F479890-un-genio-con-todos-la-anecdota-de-una-sanjuanina-tras-la-visita-de-thiago-almada&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw20USUwlH6jKol6vGzQaMWg"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -294,6 +306,7 @@
     "471a18cd13ff63ccffeb99f4c6dc19587956774b37b12521c659fc4f9290f104": "2026-06-23T21:47:46.062215+00:00",
     "472d1af43a181553c0d4a7319485d989edc6488fc4a3a33bac84fbda827598c7": "2026-07-05T04:56:58.167574+00:00",
     "475e8e17b60d2adfe01b2487fbcc12d1e6956c7749fb742e64ac75dc229530b3": "2026-07-21T11:45:16.831235+00:00",
+    "47817c93f8660d651f437f315c8fe4b0b8516815477b0e322fe7dfe7f0a1fd00": "2026-07-23T15:06:44.353546+00:00",
     "47fed2b70d099d38fe5e92e115421bd3a8fe9a7e23f165b1ab7a21a0851aa7f4": "2026-07-20T17:59:28.265725+00:00",
     "480ec02233291efb6770f0f909e3605cdcd0587f0900415ceaefc7957e5b1762": "2026-07-14T16:12:13.424770+00:00",
     "4818d2da883588ea92fcf44274fad553cb69e6cba505a7484a8f483e1faa5ee2": "2026-07-22T15:38:42.811393+00:00",
