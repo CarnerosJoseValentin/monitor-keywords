@@ -1,6 +1,42 @@
 {
   "last_report_date": "2026-07-25",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "policia"
+      ],
+      "published": "2026-07-25T13:00:40Z",
+      "snippet": "COSQUÍN: FPA CERRÓ UN PUNTO DE VENTA Y SECUESTRÓ MÁS DE 1000 DOSIS DE ... Tras varios meses de investigaciones dirigidas por el Ministerio Público Fiscal, grupos operativos e investigativos de la Fuerza Policial&nbsp;... Tras varios meses de investigaciones dirigidas por el Ministerio Público Fiscal…",
+      "text": "COSQUÍN: FPA CERRÓ UN PUNTO DE VENTA Y SECUESTRÓ MÁS DE 1000 DOSIS DE ... COSQUÍN: FPA CERRÓ UN PUNTO DE VENTA Y SECUESTRÓ MÁS DE 1000 DOSIS DE ... Tras varios meses de investigaciones dirigidas por el Ministerio Público Fiscal, grupos operativos e investigativos de la Fuerza Policial&nbsp;... Tras varios meses de investigaciones dirigidas por el Ministerio Público Fiscal, grupos operativos e investigativos de la Fuerza Policial&nbsp;... Tras varios meses de investigaciones dirigidas por el Ministerio Público Fiscal, grupos operativos e investigativos de la Fuerza Policial&nbsp;...",
+      "title": "COSQUÍN: FPA CERRÓ UN PUNTO DE VENTA Y SECUESTRÓ MÁS DE 1000 DOSIS DE ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.mpfcordoba.gob.ar%2Fcosquin-fpa-cerro-un-punto-de-venta-y-secuestro-mas-de-1000-dosis-de-drogas-dos-detenidos%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw3z763a67m9OqyaRolYzp5o"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-07-25T12:55:32Z",
+      "snippet": "La FPA detuvo a un sospechoso y secuestró drogas en Colonia Caroya El procedimiento se realizó sobre la Ruta E-66 y continuó con un allanamiento en una vivienda de la ciudad de Córdoba . Se secuestraron drogas &nbsp;... El procedimiento se realizó sobre la Ruta E-66 y continuó con un allanamiento en…",
+      "text": "La FPA detuvo a un sospechoso y secuestró <b>drogas</b> en Colonia Caroya La FPA detuvo a un sospechoso y secuestró drogas en Colonia Caroya El procedimiento se realizó sobre la Ruta E-66 y continuó con un allanamiento en una vivienda de la ciudad de Córdoba . Se secuestraron drogas &nbsp;... El procedimiento se realizó sobre la Ruta E-66 y continuó con un allanamiento en una vivienda de la ciudad de Córdoba . Se secuestraron drogas &nbsp;... El procedimiento se realizó sobre la Ruta E-66 y continuó con un allanamiento en una vivienda de la ciudad de Córdoba . Se secuestraron drogas &nbsp;...",
+      "title": "La FPA detuvo a un sospechoso y secuestró <b>drogas</b> en Colonia Caroya",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F7%2F25%2Fla-fpa-detuvo-a-un-sospechoso-y-secuestro-drogas-en-colonia-caroya-255885.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw11sPLI5LPalbGGrr2dRb3n"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas",
+        "policia"
+      ],
+      "published": "2026-07-25T04:25:51Z",
+      "snippet": "San José de las Salinas: la FPA cerró un punto de venta de drogas - Canal C En el marco de una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico de Deán Funes, efectivos de la Fuerza Policial&nbsp;... En el marco de una investigación dirigida por la Fiscalía de Lucha contra el N…",
+      "text": "San José de las Salinas: la FPA cerró un punto de venta de <b>drogas</b> - Canal C San José de las Salinas: la FPA cerró un punto de venta de drogas - Canal C En el marco de una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico de Deán Funes, efectivos de la Fuerza Policial&nbsp;... En el marco de una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico de Deán Funes, efectivos de la Fuerza Policial&nbsp;... En el marco de una investigación dirigida por la Fiscalía de Lucha contra el Narcotráfico de Deán Funes, efectivos de la Fuerza Policial&nbsp;...",
+      "title": "San José de las Salinas: la FPA cerró un punto de venta de <b>drogas</b> - Canal C",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fcanalc.com.ar%2Fsan-jose-de-las-salinas-la-fpa-cerro-un-punto-de-venta-de-drogas%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2x_EfNYjgSGUpWiIPW62kN"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -79,6 +115,7 @@
     "1226c1a92b5d5fbe0b0f508cbb23e462b0adb4846c1fe7b99979d8fb5f28c35b": "2026-07-15T16:19:23.130289+00:00",
     "1236754232cf87a7a989e3199edf4b0348eee0ec6070156730856be75148d5a2": "2026-06-30T09:30:11.672917+00:00",
     "1262e1a5fe2c0ebfd3b37a23977e7e42298c8cfe3db64a2e3f8706f43a990853": "2026-07-16T18:04:18.613676+00:00",
+    "12643d20e7c211e127feefee8fdb39a6cf9cfe6ccadcb93c041d12cfd994efd2": "2026-07-25T15:02:16.990626+00:00",
     "12918756841ac2ca02cde980fcce1022840d989378ca0c1e4d51679a95e1ada2": "2026-07-16T04:08:49.878684+00:00",
     "12d2e605e50dd0758ba69cadf45b4e896a17c62b43833e55e99529fd9db559f4": "2026-06-30T17:50:37.111607+00:00",
     "12dfdb1e7959067f30e04f40d40ab6ecf2af66a31f0fbaf0a2c979f7e014c9b9": "2026-07-14T05:27:25.379728+00:00",
@@ -183,7 +220,6 @@
     "2b2b50a6e99b312fb16f3aa6ffb2e2fb21dc0bfc7ea6731406532b9590f1b134": "2026-07-15T12:12:50.994697+00:00",
     "2b4e1d4f28e974be1762c1df93dfc33df84415a74c727a405e78350ac8796f7e": "2026-07-10T18:23:48.371720+00:00",
     "2b80b8ae50ab7db7f7a138d501ba42fb4b5e9138310fc2f25cea96f82b973f10": "2026-07-17T21:51:01.266990+00:00",
-    "2b84e949fde7e976c310afdd741b745338806d17b935d166e155294da5598f21": "2026-06-25T14:28:06.271839+00:00",
     "2bab92a8eaed2f9c37d5e64a9f04d391ceeec1a9ef2949ab71e02f6ec08b20b7": "2026-06-26T16:14:21.126824+00:00",
     "2bbb54c8610301ae469f8bdf5708f96ca2f2dbc138d674b70da72d4c88f31087": "2026-07-11T14:50:59.862305+00:00",
     "2bd4cad96620d29b068fb7cf336778561595be072502e196ae728f662f3613a6": "2026-06-25T17:10:40.066559+00:00",
@@ -315,7 +351,6 @@
     "4c50e7645ab84bdd00101fcf8ec354c378a1fbfd87f88a73ebe6346de91f6ecc": "2026-07-18T21:48:17.858105+00:00",
     "4c535b9b9a0bbc6a9def4ef324514232d20e3741c69699555c5dab1531f94883": "2026-07-14T05:27:25.382032+00:00",
     "4c72bd7e2509b8003c2904c515a9d2f0f6f5b49277d0be171b3c95b85b149ed2": "2026-07-17T14:41:31.082017+00:00",
-    "4ca26c4dbd34f026a27d50275884e8f260cea1a8260ea4fd960e8979e0f26ec2": "2026-06-25T14:28:06.271063+00:00",
     "4cc3b08cb42b568fab0fa507b5cfbb00adddd70ede16c29b4be7d7fa480a19fc": "2026-07-03T17:23:00.478060+00:00",
     "4d05bb55052068df8eed664dc85108f4269e6a50b67e7aeb3b974bd612c82ab2": "2026-07-07T04:50:25.203820+00:00",
     "4dc45478b30cddb3fc1e1cf51b832e90759d967c39eb1f1f24b2912490f71bf1": "2026-07-19T05:49:37.316049+00:00",
@@ -483,6 +518,7 @@
     "7b506ead50f158632c470e5a2262cdcad8d14dd728318c9de7c8e6d5760a15a4": "2026-07-05T04:56:58.336660+00:00",
     "7bc3322b944da2be681e692b1712e37d52e17dd35f614d12dc146ab4e3ae228f": "2026-06-29T21:26:29.883270+00:00",
     "7bca60db97d2ab72be70bad9fae18deca96a2d1ebe9042ee03fa4e457139f98a": "2026-07-02T07:28:52.323747+00:00",
+    "7c26d9c0fb69f1176835b8217d11c37ed4d203b420db31ec9750a9fe93f3d199": "2026-07-25T15:02:16.991006+00:00",
     "7d12e9c222e59e2761b1dcd1831a91a268c1d9af56164ae62d38929ac410f47e": "2026-07-02T23:03:20.532789+00:00",
     "7d174579a668eb2fdf957a1e3cb4b82a6c6e32066e4d47ceaa30b6ed97f348f0": "2026-07-08T19:21:13.628760+00:00",
     "7d3c31aefebf362266415ee0383c950cf0f30a275eb0cba5241f4a673a52ca16": "2026-07-09T02:45:21.585094+00:00",
@@ -534,6 +570,7 @@
     "86ba6f978722542a4250daf17edf4885dcc37985e44dca44c68dd0b8a478d9e6": "2026-07-21T03:33:27.721205+00:00",
     "8713f6c73f6012719bf6b08109cf13932409d0a87d3397a6003b9986f2ce9509": "2026-07-02T17:44:20.894027+00:00",
     "87954330466705bb97964844b41860a2071592baf0bfc649eda1bb89fd32f6c6": "2026-07-06T16:20:46.307542+00:00",
+    "87bc3d473ee30dd34963732d9d39c1386242d27e05da9ea9ca5197074ed5c57d": "2026-07-25T15:02:16.992661+00:00",
     "87c290cb687dcc143b0b1ccc01fe92339d2dfdf784be676fc7c2516c4a29ba55": "2026-06-27T04:51:47.193575+00:00",
     "87d7bdc82238d49ec1947bac5bc2c7760b077abedf55d18abccaa1a7d6f1ba84": "2026-07-16T18:04:18.611804+00:00",
     "87f628712fa10036f8b808dd9458d64af270210dffb5bfba2dfa5924f4481aa7": "2026-07-18T14:51:45.695977+00:00",
@@ -582,7 +619,6 @@
     "91feb970f138f6384b32233741bd8b79e114e3030175c30e578f9ebac72b84e1": "2026-07-08T23:03:52.437794+00:00",
     "92b18f8fd4b2dbc91574fb0b7c49b92ff0ce7aabf41d133aa57e7500018c7b47": "2026-06-26T13:09:47.818281+00:00",
     "92b76848a0c2ba05f0fd23ac0e4730ad0e76c5a930806634ad16dc4defa27f75": "2026-07-06T16:20:46.112554+00:00",
-    "92ea10a32874b7a183b564884a71d86ca778693d3eca0a5da6c4c6be22478108": "2026-06-25T14:28:06.272273+00:00",
     "9313a32c7e3fa061d2a85333605b89d0fd40dad630ce5deda1047a5b45d4feaf": "2026-06-26T03:29:40.268698+00:00",
     "9336f5b17608bfc744e81434c523820e22fc9029c2a1e45af1c6a5ffbd5c4f42": "2026-07-20T17:59:27.998552+00:00",
     "9396cedf16d8efa536d476321d56553d44c039de3f9c551468bb960c4f7e5e49": "2026-07-11T02:26:49.885220+00:00",
@@ -781,7 +817,6 @@
     "c3dac9eb24223bdc4b20ff4401ba43f0c4028047563431c2200ff45f1b522adc": "2026-07-01T21:25:47.762132+00:00",
     "c3e9ab0f6a288880e60b9b53a01962cf63f3c86967e395794a3378e9202b58ab": "2026-07-22T21:03:50.821640+00:00",
     "c43bdc8eb6c8b27ece1e326b487eb74d730550679c80f4bbe5a4ba265ca406a5": "2026-06-27T04:51:47.458117+00:00",
-    "c47c4045d337d75af404d1944228eb8a5aae7e18c5063b02eb65f18e27341592": "2026-06-25T14:28:06.271417+00:00",
     "c4d822223387834bab5699f4ee1b7a4fef3f847ee7e9b3e9d5438473e7879c16": "2026-07-23T19:12:23.695326+00:00",
     "c528547a345674502a73a27edbfa373491c67b945ac0a70003ed7fd14d1813ce": "2026-07-10T21:59:29.468447+00:00",
     "c58c51d113b966dc56d0b4bcf478b402f81a821e2ef2ad34e85c0fbffe230e62": "2026-07-08T17:26:40.978462+00:00",
@@ -839,7 +874,6 @@
     "d46b99d0f5dd1e6ab76028e187231513277e50c5966e629314c81a0a62206b4a": "2026-07-20T15:09:26.603113+00:00",
     "d4dace251481c68d1eec1b54e59809024dd4bce6c93beac9a07542b2e44356d9": "2026-07-11T16:54:49.030002+00:00",
     "d510ac78a1119b9f7e6818984380dbb90e5a485dbe05fe1c0000b8666931ceb5": "2026-07-04T00:13:59.554792+00:00",
-    "d566fb17c5463f4790629a2c3d2ea55ab8ea3014b866da744cd71128bd2f9d12": "2026-06-25T14:28:06.270161+00:00",
     "d68ba10aa03b78bb0014b6f9fbebf19c90f6b8942a483f2d3b998295f86cfbd2": "2026-07-04T19:08:02.710415+00:00",
     "d6e0a227074e3bcd521b7b5ad5e2bebe0a144fa93d88a47370f11e15e597f301": "2026-07-09T13:47:45.482322+00:00",
     "d6e318f71d930aa51c110458175286ae804363df0a5f4e494e849515d865b483": "2026-06-30T19:52:08.724798+00:00",
@@ -892,7 +926,6 @@
     "e58973d5f99de0160edd486fd4245e0a09745686a6646e8e896fa9efa0e50087": "2026-07-24T17:27:40.434187+00:00",
     "e59e3dacc8c8067601ca822a50a9a50cf88d1599f8a073cb276f830cae995ffa": "2026-07-11T02:26:49.881713+00:00",
     "e673a5ae8bde0ae8c952912752cecf419f0bef2072e7feba6646467aa4e0b2a7": "2026-06-25T19:57:14.465004+00:00",
-    "e7327ed8ed7c4cfd2e4ca1d1fbf562e57efd280f7d92bdb869bdc3516e862099": "2026-06-25T14:28:06.270601+00:00",
     "e751543082a3cab6cde74622e1e9b95ac4bfccc6292d37bf6e309afc2728e802": "2026-07-17T16:12:50.893630+00:00",
     "e7a73a4508a66c7bbd9b20735dc8667b1b5be9cd7964a9cea534ac1ee4815ce7": "2026-07-07T17:11:42.207899+00:00",
     "e7cfdc343326770e44110db4fad4da842d2f4c0b7dc96429398646a9d8a3a8ca": "2026-07-22T22:59:53.335089+00:00",
