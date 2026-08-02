@@ -1,6 +1,30 @@
 {
   "last_report_date": "2026-08-02",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas"
+      ],
+      "published": "2026-08-02T13:50:30Z",
+      "snippet": "FPA DESBARATÓ UNA ORGANIZACIÓN QUE COMPRABAN LAS DROGAS EN CÓRDOBA ... Autoridades de la Fiscalía de Lucha contra el Narcotráfico de Deán Funes ordenaron la remisión de lo incautado y el traslado de los aprehendidos a&nbsp;... Autoridades de la Fiscalía de Lucha contra el Narcotráfico de Deán Funes …",
+      "text": "FPA DESBARATÓ UNA ORGANIZACIÓN QUE COMPRABAN LAS <b>DROGAS</b> EN <b>CÓRDOBA</b> ... FPA DESBARATÓ UNA ORGANIZACIÓN QUE COMPRABAN LAS DROGAS EN CÓRDOBA ... Autoridades de la Fiscalía de Lucha contra el Narcotráfico de Deán Funes ordenaron la remisión de lo incautado y el traslado de los aprehendidos a&nbsp;... Autoridades de la Fiscalía de Lucha contra el Narcotráfico de Deán Funes ordenaron la remisión de lo incautado y el traslado de los aprehendidos a&nbsp;... Autoridades de la Fiscalía de Lucha contra el Narcotráfico de Deán Funes ordenaron la remisión de lo incautado y el traslado de los aprehendidos a&nbsp;...",
+      "title": "FPA DESBARATÓ UNA ORGANIZACIÓN QUE COMPRABAN LAS <b>DROGAS</b> EN <b>CÓRDOBA</b> ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.mpfcordoba.gob.ar%2Ffpa-desbarato-una-organizacion-que-compraban-las-drogas-en-cordoba-y-las-comercializaban-en-dean-funes%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw1lds20g8w5ZjNrU9oKEomU"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "contrabando"
+      ],
+      "published": "2026-08-02T13:50:03Z",
+      "snippet": "Gendarmería secuestró mercadería de contrabando por más de $470 millones en Córdoba Gendarmería Nacional secuestró mercadería de contrabando valuada en más de 470 millones de pesos durante dos controles vehiculares realizados en&nbsp;... Gendarmería Nacional secuestró mercadería de contrabando valua…",
+      "text": "Gendarmería secuestró mercadería de <b>contrabando</b> por más de $470 millones en <b>Córdoba</b> Gendarmería secuestró mercadería de contrabando por más de $470 millones en Córdoba Gendarmería Nacional secuestró mercadería de contrabando valuada en más de 470 millones de pesos durante dos controles vehiculares realizados en&nbsp;... Gendarmería Nacional secuestró mercadería de contrabando valuada en más de 470 millones de pesos durante dos controles vehiculares realizados en&nbsp;... Gendarmería Nacional secuestró mercadería de contrabando valuada en más de 470 millones de pesos durante dos controles vehiculares realizados en&nbsp;...",
+      "title": "Gendarmería secuestró mercadería de <b>contrabando</b> por más de $470 millones en <b>Córdoba</b>",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F8%2F2%2Fgendarmeria-secuestro-mercaderia-de-contrabando-por-mas-de-470-millones-en-cordoba-256496.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw1n-aASrMxfRn_7MT91rKRq"
+    }
+  ],
   "seen": {
     "00010cc7877fae2de942d2523ed2cc5c3f4a3d9946ce294fb2f9681ffcd0f10b": "2026-07-10T16:54:06.343962+00:00",
     "002fc84b854bd4b73cceff05b9a94b6f33587733cc1c5bc1f817f107819401f4": "2026-07-07T17:11:42.207457+00:00",
@@ -39,6 +63,7 @@
     "07b8c1d7749646b279cb988a189fa304155b1225e1fe8c78ce3e3d5cec0a67b0": "2026-07-10T16:54:06.559726+00:00",
     "07fbc78d21b47650d80d9525d1a74bc91f517c2d385bb9cf58eabc64f3eda880": "2026-07-10T16:54:06.555609+00:00",
     "083b7abf3a5c99557c8d556ce5d48429a4ff9d4223af808f26efdca78ad11d76": "2026-07-11T17:53:42.082320+00:00",
+    "08483c7ede9bb131ef76b0c484aab8a0c6394bd10b954f66d8d5019139c94702": "2026-08-02T14:59:53.999756+00:00",
     "0865d22183c58881effd977abf465331765929de7ca0994a7c53926b587d8578": "2026-07-08T17:26:40.979099+00:00",
     "0890deaa9f2b54e44f65b7d67e208ae59d5c9f1b5b984977f8e1393b74a40731": "2026-07-11T23:52:35.100708+00:00",
     "0891a8e85d240ce89169b02d3c55b4a44a8fd2bbb45e11f9995b63f2d5935609": "2026-07-23T19:12:23.606844+00:00",
@@ -426,6 +451,7 @@
     "73c1033fa9e49a6b938fa5e52708c4c9e49b23f3c1efad5653301afb3c39f3d8": "2026-07-12T21:46:47.668937+00:00",
     "74a9a8e9d4989116de730ff46d0055d281659fc119dc2bf26a2abc1733b3225a": "2026-07-03T15:09:02.640927+00:00",
     "74cd980a6a0b505e66b4daa851b47de3d210c7e9ed4fbc6b31758dec1363d8d4": "2026-07-18T02:11:53.725014+00:00",
+    "74ee643254127ca2321ea5813af26cb84013ef0be09335abc8a39a9baa668914": "2026-08-02T14:59:53.999312+00:00",
     "74f9d9f13dd80bb056603be00e9418bda55eab569d4c817c78de5340dda71b47": "2026-07-23T12:22:38.789552+00:00",
     "759eda575dbe3127365a1cb15d421c44a29f792dada5b47128590c9a2796b376": "2026-07-30T11:05:25.014875+00:00",
     "75af36fcab3821f41c49c4e7cf40e6b170b5f118c9e3c0fe316b05fb441e9578": "2026-07-21T06:25:51.367583+00:00",
