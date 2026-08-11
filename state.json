@@ -1,6 +1,29 @@
 {
   "last_report_date": "2026-08-11",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "trata de personas"
+      ],
+      "published": "2026-08-11T06:26:09Z",
+      "snippet": "Dictaron 9 años de prisión para el pastor Elías Argüello por trata de personas con fines de ... ... trata de personas y explotación laboral. Junto a él fueron condenados ... Mercado Libre hace pie en el interior de Córdoba y apuesta a generar dos mil&nbsp;... ... trata de personas y explotación labo…",
+      "text": "Dictaron 9 años de prisión para el pastor Elías Argüello por <b>trata de personas</b> con fines de ... Dictaron 9 años de prisión para el pastor Elías Argüello por trata de personas con fines de ... ... trata de personas y explotación laboral. Junto a él fueron condenados ... Mercado Libre hace pie en el interior de Córdoba y apuesta a generar dos mil&nbsp;... ... trata de personas y explotación laboral. Junto a él fueron condenados ... Mercado Libre hace pie en el interior de Córdoba y apuesta a generar dos mil&nbsp;... ... trata de personas y explotación laboral. Junto a él fueron condenados ... Mercado Libre hace pie en el interior de Córdoba y apuesta a generar dos mil&nbsp;...",
+      "title": "Dictaron 9 años de prisión para el pastor Elías Argüello por <b>trata de personas</b> con fines de ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fupsanfrancisco.com.ar%2Fnoticia%2Ffiles%2F%2Fnoticia%2Fdictaron-9-anos-de-prision-para-el-pastor-elias-arguello-por-trata-de-personas-con-fines-de-explotacion-laboral-%2F4246&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw25h6eZ0D7AtmGOeqR-iq84"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-08-11T04:30:40Z",
+      "snippet": "Facundo Moyano dijo que no consume drogas y que su novia tuvo un paro cardíaco Negó violencia de género o de privación de la libertad. Redacción Diario Mendoza Today &middot; Diario Mendoza &nbsp;... Negó violencia de género o de privación de la libertad. Redacción Diario Mendoza Today &middot; Diar…",
+      "text": "Facundo Moyano dijo que no consume <b>drogas</b> y que su novia tuvo un paro cardíaco Facundo Moyano dijo que no consume drogas y que su novia tuvo un paro cardíaco Negó violencia de género o de privación de la libertad. Redacción Diario Mendoza Today &middot; Diario Mendoza &nbsp;... Negó violencia de género o de privación de la libertad. Redacción Diario Mendoza Today &middot; Diario Mendoza &nbsp;... Negó violencia de género o de privación de la libertad. Redacción Diario Mendoza Today &middot; Diario Mendoza &nbsp;...",
+      "title": "Facundo Moyano dijo que no consume <b>drogas</b> y que su novia tuvo un paro cardíaco",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fmendozatoday.com.ar%2Fnacionales%2Ffacundo-moyano-dijo-que-no-consume-drogas-y-que-su-novia-tuvo-un-paro-cardiaco%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw251IVyZ-K9tjdaxzrjP1al"
+    }
+  ],
   "seen": {
     "00531b4685d345974186ddb164ca6b23a0a5b38028f4eacbdf6539e6301d62b3": "2026-08-10T23:32:03.776691+00:00",
     "00755c0d9ebb55692308d23e3874eb0052d33eb6a8d36acb21e7cd5f1187cb9b": "2026-08-07T15:53:12.819708+00:00",
@@ -114,7 +137,7 @@
     "1b23223cb4234995f33fd0a0e6524df66eb90a98f1ba51c330a44e15befde0c2": "2026-08-08T21:29:16.071621+00:00",
     "1c4a1ab36020c2c7fcdede96352f9e574b226074c12a9a451f997ed5b46b9314": "2026-08-08T01:21:08.502219+00:00",
     "1c54cf1eed0cb5268ce40161cbd1d0e5c07d38bf1cc8501062d0977535d213e4": "2026-08-02T22:53:26.019462+00:00",
-    "1c8dde8ad5f7ab20b0653b15d73c3e87c38678b91e338ce8fe7bae11e20a265d": "2026-07-12T13:25:44.617256+00:00",
+    "1cc94a3cfcb8b672dc4cd12c2b4fa740dcc986cdb1f465602cc4ca2a726a2d4f": "2026-08-11T14:20:06.921147+00:00",
     "1d3f096faa76bd04f627b15110ad45e4efa8bf19e3d7595fd3e6044dce9e4ac0": "2026-08-05T18:18:54.540969+00:00",
     "1daad7f287b59a18eb42d6ee45d6ff4261b49a90d9ead3d974c0df0fda2b18e3": "2026-07-17T21:51:01.266151+00:00",
     "1dfdb36394562f87d36e00b79aa0a63c4eed7e03ba227a8f08501feb80e0e43f": "2026-07-21T17:15:24.789088+00:00",
@@ -423,6 +446,7 @@
     "7089c0a771dd158ac3320ef34eb7ec4cc2a8bf10d7a3648e5a2afc91f2d1be45": "2026-08-10T16:59:10.603730+00:00",
     "70c39e2f6ad3b8bbb8f0ace82e79d189eef7b5c24d822ff56ae04a84abb84e35": "2026-07-27T17:40:26.717473+00:00",
     "70de86cb2f4cf45f33b7ad4f335fdefc2f65a46075419109041fe4dcb8904312": "2026-08-09T12:43:05.373914+00:00",
+    "70e7b54daeb833216acd2e1938c8fd1029fcbcc520e897b0e3a77707bcf67953": "2026-08-11T14:20:06.921905+00:00",
     "71090436046dc2073f2ce14c223ed50fc94c3d69ccf44944e4f31074a0ad7dd4": "2026-07-29T20:10:38.595096+00:00",
     "71355ede5e1eefb1f2ec73599747d6f6552e489b408e4ea604827944b622c354": "2026-08-10T05:23:23.058230+00:00",
     "71d8293e020229eecba46ea88004ffec2b4dcf6998e529a60d7dd601b2f017ae": "2026-07-15T18:06:42.031967+00:00",
