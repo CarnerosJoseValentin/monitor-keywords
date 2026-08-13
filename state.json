@@ -1,6 +1,30 @@
 {
   "last_report_date": "2026-08-13",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "trata de personas",
+        "narcotráfico"
+      ],
+      "published": "2026-08-13T12:56:03Z",
+      "snippet": "Controles migratorios y narcotráfico : detectaron expulsados pendientes y una red que ... - SL24 ... trata de personas . La lupa sobre los comercios y los domicilios. Uno de los focos estuvo puesto en la zona comercial de calle San Luis, donde fueron&nbsp;... ... trata de personas . La lupa sobre lo…",
+      "text": "Controles migratorios y <b>narcotráfico</b>: detectaron expulsados pendientes y una red que ... - SL24 Controles migratorios y narcotráfico : detectaron expulsados pendientes y una red que ... - SL24 ... trata de personas . La lupa sobre los comercios y los domicilios. Uno de los focos estuvo puesto en la zona comercial de calle San Luis, donde fueron&nbsp;... ... trata de personas . La lupa sobre los comercios y los domicilios. Uno de los focos estuvo puesto en la zona comercial de calle San Luis, donde fueron&nbsp;... ... trata de personas . La lupa sobre los comercios y los domicilios. Uno de los focos estuvo puesto en la zona comercial de calle San Luis, donde fueron&nbsp;...",
+      "title": "Controles migratorios y <b>narcotráfico</b>: detectaron expulsados pendientes y una red que ... - SL24",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fsl24.com.ar%2Fcontroles-migratorios-y-narcotrafico-detectaron-expulsados-pendientes-y-una-red-que-intentaba-sacar-500-kilos-de-cocaina%2F&ct=ga&cd=CAIyHGUxMDcxMTRlYzIxZTk0Mjk6Y29tOmVzOkFSOlI&usg=AOvVaw3nk0_IZDdUOqCCFVT_Yp7Y"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-08-13T12:35:48Z",
+      "snippet": "La ofensiva de Kast contra la nueva delincuencia - Diario de Cuyo En su extenso discurso, también se refirió a las penalidades que recibirá &quot;la venta ilegal de alcohol, el consumo de drogas en la vía pública, los&nbsp;... En su extenso discurso, también se refirió a las penalidades que recibirá…",
+      "text": "La ofensiva de Kast contra la nueva delincuencia - Diario de Cuyo La ofensiva de Kast contra la nueva delincuencia - Diario de Cuyo En su extenso discurso, también se refirió a las penalidades que recibirá &quot;la venta ilegal de alcohol, el consumo de drogas en la vía pública, los&nbsp;... En su extenso discurso, también se refirió a las penalidades que recibirá &quot;la venta ilegal de alcohol, el consumo de drogas en la vía pública, los&nbsp;... En su extenso discurso, también se refirió a las penalidades que recibirá &quot;la venta ilegal de alcohol, el consumo de drogas en la vía pública, los&nbsp;...",
+      "title": "La ofensiva de Kast contra la nueva delincuencia - Diario de Cuyo",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.diariodecuyo.com.ar%2Fcolumnas-opinion%2Fla-ofensiva-kast-contra-la-nueva-delincuencia-n6580086&ct=ga&cd=CAIyHGUxMDcxMTRlYzIxZTk0Mjk6Y29tOmVzOkFSOlI&usg=AOvVaw3OgAzDbvmPwFdDdCoW1s2R"
+    }
+  ],
   "seen": {
     "00531b4685d345974186ddb164ca6b23a0a5b38028f4eacbdf6539e6301d62b3": "2026-08-10T23:32:03.776691+00:00",
     "00755c0d9ebb55692308d23e3874eb0052d33eb6a8d36acb21e7cd5f1187cb9b": "2026-08-07T15:53:12.819708+00:00",
@@ -355,7 +379,6 @@
     "5d3cc84e4431eba5a9989d1b1363711568a8029d4c94cc280360b1e85be250c2": "2026-07-14T19:38:43.397895+00:00",
     "5d7fb9c602169f4e41a9a712c982e499e010d7afff1cb7274d647122464924c6": "2026-08-09T06:52:03.222621+00:00",
     "5e070928758d021d06a8ed73da01ff5cada182aa0108c26dbeb77bc68212de65": "2026-07-22T21:03:50.660016+00:00",
-    "5e5cb70fa0df2d51e1c2e508ac0f8ad52b668bcf4ca13f1aa9decc20169e29cf": "2026-07-14T14:47:12.935039+00:00",
     "5e6fe5e6fc24e1f33e7add30c4f9e867b15872d13e74fb39326c8afdaef77cc6": "2026-07-29T21:58:36.851413+00:00",
     "5ed482488d7bc72ebf5c89a163cbc618ad826108ab8a7f5dfeb5ccf3b626dff6": "2026-07-18T15:54:09.419132+00:00",
     "5ed575a68b95132a5fcaa89ae432fa5a2d54c61156fd3f656831dee62a93380d": "2026-07-20T17:59:28.261116+00:00",
@@ -401,7 +424,6 @@
     "6adf97332ba2bec8c8c38f1576195058879d8f0fc23f49511b4867db2f8de201": "2026-08-09T18:38:20.867042+00:00",
     "6aeed48eaeb66905963054e6b8d5a153480ff8d7566a72bb276917319fdf5fbc": "2026-08-04T19:27:57.619160+00:00",
     "6af04df89c1f10e15b887d1b71d705ffe07c8db26178b0a0fa12a0eacc936ecf": "2026-07-23T23:57:58.962944+00:00",
-    "6b699b4ab5c2f06720a86560e168b626a1699b26b53b8fa9a9a2e4ae741e3bb2": "2026-07-14T14:47:12.935514+00:00",
     "6b76f58246f1bb8aa3c21afcea09e936fe9f237bd08bcb8d5bd780e12dd0e1f7": "2026-07-24T19:21:12.515896+00:00",
     "6b8707dca97552e7606646c56ec9dbe6de94621420a8f4d333d23cd73d24abb6": "2026-08-07T00:39:32.409527+00:00",
     "6bbbfed82b567de59c556920837aad981e4839768128249f6de62c1ef34e9e14": "2026-07-30T02:07:34.311339+00:00",
@@ -841,6 +863,7 @@
     "da61cdd8980391ed0f876834ad2839a12905259e4407697caebec7adb6dbad07": "2026-08-07T00:39:32.268368+00:00",
     "da61d9352d2f63a888350685c400ada08b669944ceb0e001cbd9af09581b6894": "2026-07-17T20:03:59.562418+00:00",
     "da7a009b04c621a5cc283882b1b8c35800ec711a8274f8fe947808cfd80005af": "2026-07-29T21:58:36.673617+00:00",
+    "daafc80502e2d366a5d1b58f817185fa214964d072206ea071887da8dd2302a4": "2026-08-13T14:54:22.650142+00:00",
     "dab57e177c85fe6c2262339a88400c26968d317fca0695eb1597926f611e909a": "2026-07-25T17:56:22.887164+00:00",
     "dad7de80932e59834e340b7179428dff2825a942172c264f69f9dc8d3d5336e5": "2026-07-29T11:23:49.381718+00:00",
     "dc2af36e922ebea0ef19890267bda7c422f0ee3482eac0e8b2c317376807233f": "2026-08-04T23:00:46.967541+00:00",
@@ -925,6 +948,7 @@
     "f045afa7824335307266a3a33072bcca78d51f05b0214bebc372328c087f2abf": "2026-07-24T03:15:45.655645+00:00",
     "f047bcd3c2e57e37bf80a77fe3176903be82ac3b0f87fa574e0cd7db30f6b6f8": "2026-07-22T15:38:42.812181+00:00",
     "f0d4d31125e2272e109cfc6e368851e8317a833363be3de369b3982dbcd1c07d": "2026-08-01T14:57:55.597686+00:00",
+    "f0d6074d62811cf9f395fbc136e8ad6be74067862bad15d3741c2b119042dc7b": "2026-08-13T14:54:22.649699+00:00",
     "f112b0c7b56a93a47248e50d9c5b84a74e0a52dba9bedf10a59a2353ae9c32ab": "2026-07-27T15:40:37.575104+00:00",
     "f14e9bcc6a263178e37998b90a2247a34440256a959a3890a051f6d827871c91": "2026-08-04T19:27:57.618910+00:00",
     "f19fa946668c449024451928457e232993a334bdb11943deb3a3ea18b4f434bb": "2026-07-31T14:12:14.912506+00:00",
