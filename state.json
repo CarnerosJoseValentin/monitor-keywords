@@ -1,6 +1,31 @@
 {
   "last_report_date": "2026-08-14",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas"
+      ],
+      "published": "2026-08-14T12:59:53Z",
+      "snippet": "La FPA detuvo a un hombre con antecedentes acusado de vender drogas mediante delivery - Puntal Tras los allanamientos, la Fiscalía de Lucha contra el Narcotráfico del Tercer Turno dispuso el traslado del detenido a sede judicial, junto con todos&nbsp;... Tras los allanamientos, la Fiscalía de Lucha …",
+      "text": "La FPA detuvo a un hombre con antecedentes acusado de vender <b>drogas</b> mediante delivery - Puntal La FPA detuvo a un hombre con antecedentes acusado de vender drogas mediante delivery - Puntal Tras los allanamientos, la Fiscalía de Lucha contra el Narcotráfico del Tercer Turno dispuso el traslado del detenido a sede judicial, junto con todos&nbsp;... Tras los allanamientos, la Fiscalía de Lucha contra el Narcotráfico del Tercer Turno dispuso el traslado del detenido a sede judicial, junto con todos&nbsp;... Tras los allanamientos, la Fiscalía de Lucha contra el Narcotráfico del Tercer Turno dispuso el traslado del detenido a sede judicial, junto con todos&nbsp;...",
+      "title": "La FPA detuvo a un hombre con antecedentes acusado de vender <b>drogas</b> mediante delivery - Puntal",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.puntal.com.ar%2Ffpa%2Fla-fpa-detuvo-un-hombre-antecedentes-acusado-vender-drogas-delivery-n263016&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw1SnfM0T9dNQHW8N9qWzTB_"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "cocaína"
+      ],
+      "published": "2026-08-14T12:51:04Z",
+      "snippet": "La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo ... Drogas . La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo Escobar y una casa de cambio &middot; Diez personas, todas&nbsp;... Drogas . La banda de las “patronas” narco…",
+      "text": "La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo ... La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo ... Drogas . La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo Escobar y una casa de cambio &middot; Diez personas, todas&nbsp;... Drogas . La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo Escobar y una casa de cambio &middot; Diez personas, todas&nbsp;... Drogas . La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo Escobar y una casa de cambio &middot; Diez personas, todas&nbsp;...",
+      "title": "La banda de las “patronas” narco en Córdoba: 400 kilos de cocaína, la referencia a Pablo ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.lavoz.com.ar%2Fsucesos%2Fbanda-patronas-narco-cordoba-400-kilos-cocaina-referencia-pablo-escobar-casa-cambio_0_VYiyWygXgv.html&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw0ejOwhiituSqvz2-adMzqo"
+    }
+  ],
   "seen": {
     "00531b4685d345974186ddb164ca6b23a0a5b38028f4eacbdf6539e6301d62b3": "2026-08-10T23:32:03.776691+00:00",
     "00755c0d9ebb55692308d23e3874eb0052d33eb6a8d36acb21e7cd5f1187cb9b": "2026-08-07T15:53:12.819708+00:00",
@@ -121,6 +146,7 @@
     "1e8294d7ed8c8e2c8260a85a7dc0c81c655dfe1d5530a0a4501f3d2591e553f3": "2026-07-30T02:07:34.314178+00:00",
     "1eeb9d27e426b50d1048e5403d125f76f49860c86bc8418253ae7b24af09ae80": "2026-07-16T12:19:13.306075+00:00",
     "1f24b29eee92755640d9002f5db13e7a3764461517f3fd57e612db7b37987349": "2026-07-24T17:27:40.440365+00:00",
+    "1f6d4ddd424f6db987ce051c97d95c835420255037b02b0581177fd00404fb3a": "2026-08-14T14:17:53.344860+00:00",
     "1fa9e6dd797161c3dfc750c25bfc5cb2ce981f77de6977616975e0fdc21c0432": "2026-08-07T00:39:32.412318+00:00",
     "1fb24369b2dd1978cb968c4ad6b750157b105800d301499474d7d6641afc86ed": "2026-08-04T19:27:57.616133+00:00",
     "1fb64122040a2e55a356ace0d301b4782fa1a92cfa4e3159f2031251a3378b61": "2026-07-18T17:54:53.406153+00:00",
@@ -866,6 +892,7 @@
     "e0c990228d07ce0d42f8c30d155398274644109c4b37120006eb87cd0499f3a7": "2026-08-03T16:22:07.908687+00:00",
     "e0f468ac85baac13c7928a0b052339a77d2394d1d0f74ff5c3993895913a45c2": "2026-07-20T17:59:28.259677+00:00",
     "e10c35c93db01a7ed78e1700e55e169e1eb2e294a6d119fb63dce8b500d07b59": "2026-08-13T04:11:19.593717+00:00",
+    "e134982aca7430dd01e9a831214a63abb7c52302fe470580c216544b6afe4d65": "2026-08-14T14:17:53.344371+00:00",
     "e17366fc784b9cbc7c7f4b257d37bf4c3850977e8720d2de761b713879f19e1b": "2026-07-29T20:10:38.697144+00:00",
     "e1aba7aea19a3529154841cfbc8225cd029e7bde505a338f08daccfe5c6401b0": "2026-07-28T18:12:26.159717+00:00",
     "e20613d33cee67d036aa2c19056aaa0a8158ac08a94bd3e95cd2277a7893606a": "2026-08-04T21:12:17.966676+00:00",
