@@ -1,6 +1,32 @@
 {
   "last_report_date": "2026-08-16",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "estupefacientes"
+      ],
+      "published": "2026-08-16T13:41:24Z",
+      "snippet": "Desbarataron a una familia que vendía drogas en su vivienda en Córdoba: cinco detenidos Se trata de una organización acusada de comercializar estupefacientes en La Calera. Entre los arrestados hay un menor de 16 años. Se trata de una organización acusada de comercializar estupefacientes en La Calera…",
+      "text": "Desbarataron a una familia que vendía <b>drogas</b> en su vivienda en Córdoba: cinco detenidos Desbarataron a una familia que vendía drogas en su vivienda en Córdoba: cinco detenidos Se trata de una organización acusada de comercializar estupefacientes en La Calera. Entre los arrestados hay un menor de 16 años. Se trata de una organización acusada de comercializar estupefacientes en La Calera. Entre los arrestados hay un menor de 16 años. Se trata de una organización acusada de comercializar estupefacientes en La Calera. Entre los arrestados hay un menor de 16 años.",
+      "title": "Desbarataron a una familia que vendía <b>drogas</b> en su vivienda en Córdoba: cinco detenidos",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Feldoce.tv%2Factualidad%2F2026%2F08%2F16%2Fdesbarataron-a-una-familia-que-vendia-drogas-en-su-vivienda-en-cordoba-cinco-detenidos%2F&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw2JWcvi0re0jNthIittUJ6h"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "trata de personas",
+        "explotación sexual",
+        "red de trata"
+      ],
+      "published": "2026-08-15T03:27:42Z",
+      "snippet": "Imputaron al asesor de un legislador de Córdoba por el caso de la red de explotación sexual infantil José Aníbal Ricardo Villarreal fue acusado por presuntamente haber participado en una red de trata de personas . José Aníbal Ricardo Villarreal fue acusado por presuntamente haber participado en una …",
+      "text": "Imputaron al asesor de un legislador de <b>Córdoba</b> por el caso de la red de explotación sexual infantil Imputaron al asesor de un legislador de Córdoba por el caso de la red de explotación sexual infantil José Aníbal Ricardo Villarreal fue acusado por presuntamente haber participado en una red de trata de personas . José Aníbal Ricardo Villarreal fue acusado por presuntamente haber participado en una red de trata de personas . José Aníbal Ricardo Villarreal fue acusado por presuntamente haber participado en una red de trata de personas .",
+      "title": "Imputaron al asesor de un legislador de <b>Córdoba</b> por el caso de la red de explotación sexual infantil",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Freconquistaradios.com.ar%2Fa-nota%2F221466%2Fimputaron-al-asesor-de-un-legislador-de-cordoba-por-el-caso-de-la-red-de-explotacion-sexual-infantil&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2bCtCbNYWEMc16wmpRJ8Uw"
+    }
+  ],
   "seen": {
     "00531b4685d345974186ddb164ca6b23a0a5b38028f4eacbdf6539e6301d62b3": "2026-08-10T23:32:03.776691+00:00",
     "00755c0d9ebb55692308d23e3874eb0052d33eb6a8d36acb21e7cd5f1187cb9b": "2026-08-07T15:53:12.819708+00:00",
@@ -299,7 +325,6 @@
     "4ba061c849b06dcb14616ea7f4b623b28a066de44ea1137977d89b0cee00249a": "2026-08-07T00:39:32.414663+00:00",
     "4be745d9b2531ee380e47040755adea6efda358990b4385f6b474baa9e0a6b38": "2026-08-10T23:32:03.775760+00:00",
     "4c50e7645ab84bdd00101fcf8ec354c378a1fbfd87f88a73ebe6346de91f6ecc": "2026-07-18T21:48:17.858105+00:00",
-    "4c72bd7e2509b8003c2904c515a9d2f0f6f5b49277d0be171b3c95b85b149ed2": "2026-07-17T14:41:31.082017+00:00",
     "4c848bdca3496ca71285ee2598095bdebe2e00b70e3ead5f64634bf00bd9852b": "2026-07-29T20:10:38.698335+00:00",
     "4dc45478b30cddb3fc1e1cf51b832e90759d967c39eb1f1f24b2912490f71bf1": "2026-07-19T05:49:37.316049+00:00",
     "4e2f5bf482fc1e519dbb0bf71a153bce9eb0d81bcd10513ca526d4fe001c2b8c": "2026-07-29T05:50:04.947510+00:00",
@@ -595,7 +620,6 @@
     "972f72d271ffd46476aa20e1e1a41a442ace90a5b740ad3960cdbb9b32cd6dea": "2026-08-02T05:54:41.907857+00:00",
     "97378146daa316ef647b19cb6d1bc98dd8cb91aae2fc389e763e771c7e4ab569": "2026-07-25T22:55:15.955560+00:00",
     "980dda55ee6b786f2940763f03fba38605a36aefd996f48d110619d0b24c585c": "2026-07-20T15:09:26.603915+00:00",
-    "983b9f4600c41e47f84a79328924e95858c75f3a207671bbf5525f8ab2d75241": "2026-07-17T14:41:31.082490+00:00",
     "983c5b611acf47db195001ab15f0fb6e80620fab76327091277fbc13af94981d": "2026-07-23T12:22:38.790112+00:00",
     "985859a139dca05841e6bf55692a2cde29279be03907783c566a31040a1daad2": "2026-07-21T13:43:32.669612+00:00",
     "98b0de570f31e2d59715d227d57a0158e5b665548f59d4f3efc879967173455e": "2026-07-29T16:19:29.487088+00:00",
@@ -720,6 +744,7 @@
     "b7445051147be9d1b4d36e75aab654eb68d34661a8303e164eb99f0111c0c99d": "2026-08-05T23:57:58.395646+00:00",
     "b74b88d7468cbce567cf3f50a88a253aa69f01350351b40ea77a893d7abcf296": "2026-08-14T21:21:55.684315+00:00",
     "b759a702e8fc38b44de5a7a72b147abe1e398f97631a86cf0de2471c6bb84574": "2026-08-11T18:57:46.042925+00:00",
+    "b7a379d8d4bcf37cca92d0b3716bf720718511f1d64e16caba96f3cf82c06992": "2026-08-16T15:18:08.865415+00:00",
     "b7d08c724a07c10cca155bce738bc636cfb7ccdb5e303db3c9905b106d593746": "2026-08-05T14:02:24.241471+00:00",
     "b80327c7919839636fc7eba837df278a4f14a7e0957ad3aa8c63366f6c3006fd": "2026-08-08T15:26:25.337931+00:00",
     "b819beec2e4125dad217dce04d25e8c3a77a347c3f99576714b136fea98321d7": "2026-07-31T09:44:26.333446+00:00",
@@ -941,6 +966,7 @@
     "eca8dcde55a4c6e29c278b8a5b89308b27ca9c8c3c517ad81d60ed69112f048b": "2026-08-12T20:40:00.599944+00:00",
     "eccbd2e75a4c576e15f10d13864ec97c2a54e49745295d674233f85b61fd398d": "2026-07-25T13:19:41.915254+00:00",
     "ecd3a2c2fbc56feffeda13c4cd6b973cc8c7a11e48251a6bca8915b72d8edafc": "2026-08-14T15:48:30.006022+00:00",
+    "ece517e8a3cad8f754fd009e3110ebb7e188f2f5ee533279df14286c488f2651": "2026-08-16T15:18:08.349356+00:00",
     "eddec455d7486dc11af59b8bfb74d7afbf9dbd66317e47f623d739b948226af4": "2026-08-04T00:06:47.508219+00:00",
     "edeb8973663ad68f81c12b4f343d6b0d1b0345d9eab3a6354b68bab12f0bdf1f": "2026-07-20T17:59:27.998079+00:00",
     "ee356f23bba2b5570c409ddf874869486b3a9f65db4545c7e101667e7d06661f": "2026-08-14T15:48:30.004186+00:00",
