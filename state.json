@@ -1,6 +1,30 @@
 {
   "last_report_date": "2026-08-18",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "atentado",
+        "aeropuerto"
+      ],
+      "published": "2026-08-18T13:04:29Z",
+      "snippet": "Quién es Fernando Cerimedo, el exasesor de Milei detenido en Bolivia por un presunto ... El consultor político y estratega digital fue capturado en el aeropuerto de Santa Cruz de la Sierra bajo sospecha de participar en un atentado&nbsp;... El consultor político y estratega digital fue capturado en …",
+      "text": "Quién es Fernando Cerimedo, el exasesor de Milei detenido en Bolivia por un presunto ... Quién es Fernando Cerimedo, el exasesor de Milei detenido en Bolivia por un presunto ... El consultor político y estratega digital fue capturado en el aeropuerto de Santa Cruz de la Sierra bajo sospecha de participar en un atentado&nbsp;... El consultor político y estratega digital fue capturado en el aeropuerto de Santa Cruz de la Sierra bajo sospecha de participar en un atentado&nbsp;... El consultor político y estratega digital fue capturado en el aeropuerto de Santa Cruz de la Sierra bajo sospecha de participar en un atentado&nbsp;...",
+      "title": "Quién es Fernando Cerimedo, el exasesor de Milei detenido en Bolivia por un presunto ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.lavoz.com.ar%2Fpolitica%2Ffernando-cerimedo-exasesor-milei-detenido-bolivia-presunto-ataque-balazos_0_718O9myICM.html&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw3bSGl3UNh-xeSRPtk_zIjh"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "aeropuerto"
+      ],
+      "published": "2026-08-18T12:38:37Z",
+      "snippet": "Detuvieron en Bolivia a Fernando Cerimedo mientras investigan un ataque armado contra ... El consultor político argentino fue aprehendido en el aeropuerto de Viru Viru, en Santa Cruz de la Sierra, cuando se disponía a viajar a Buenos&nbsp;... El consultor político argentino fue aprehendido en el aer…",
+      "text": "Detuvieron en Bolivia a Fernando Cerimedo mientras investigan un ataque armado contra ... Detuvieron en Bolivia a Fernando Cerimedo mientras investigan un ataque armado contra ... El consultor político argentino fue aprehendido en el aeropuerto de Viru Viru, en Santa Cruz de la Sierra, cuando se disponía a viajar a Buenos&nbsp;... El consultor político argentino fue aprehendido en el aeropuerto de Viru Viru, en Santa Cruz de la Sierra, cuando se disponía a viajar a Buenos&nbsp;... El consultor político argentino fue aprehendido en el aeropuerto de Viru Viru, en Santa Cruz de la Sierra, cuando se disponía a viajar a Buenos&nbsp;...",
+      "title": "Detuvieron en Bolivia a Fernando Cerimedo mientras investigan un ataque armado contra ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.lavoz.com.ar%2Fpolitica%2Fdetuvieron-bolivia-fernando-cerimedo-investigan-ataque-armado-abogada_0_Ft8gn0lfSI.html&ct=ga&cd=CAIyHDBlODA3NjJkZGM0ZDYxMzc6Y29tOmVzOkFSOlI&usg=AOvVaw1DWkTEV--DXX3yBrpoLwRN"
+    }
+  ],
   "seen": {
     "00531b4685d345974186ddb164ca6b23a0a5b38028f4eacbdf6539e6301d62b3": "2026-08-10T23:32:03.776691+00:00",
     "00755c0d9ebb55692308d23e3874eb0052d33eb6a8d36acb21e7cd5f1187cb9b": "2026-08-07T15:53:12.819708+00:00",
@@ -54,6 +78,7 @@
     "0a74846b17e265a923bde3407549cc2dc471c1ee14426b75658d90ba10370c84": "2026-07-22T17:15:18.965329+00:00",
     "0b60a5d4cd8184d1128d0714d3487a74101dd37d41c64ad4a4678d034c3cb037": "2026-08-07T15:53:12.820345+00:00",
     "0b7c0b8e8029b7880cc87f1d09e6404f63dde265d8711d75962754ec6a42a9f3": "2026-08-08T17:27:07.677451+00:00",
+    "0bb81a45b3cea182068bb461326a43fac384c238b8332000ae0798ca29096c91": "2026-08-18T13:41:52.226384+00:00",
     "0bbf0a9233af0f5f94535bcf965e1109d4e3d2ac9d55b3ac7503e92800c09c62": "2026-08-10T18:55:37.206991+00:00",
     "0bdb0d8071c09e464dfec9fb6df4659b9e6dfc4c5fe8345bd4e7088725d5188e": "2026-08-11T12:57:21.251080+00:00",
     "0bdfa86e1c234c93bb526f77aff07823b96113705883990f88cb0f269dba2d07": "2026-07-20T17:59:28.260234+00:00",
@@ -313,6 +338,7 @@
     "4f98f2b7633c3f664a00d6c06a5eaabe2c512c9bceaf700fb720ed8408fa5b96": "2026-08-07T00:39:32.409926+00:00",
     "503647520250e79a78d36e402b3badd7962942dbefd450a023c2f33806f21325": "2026-07-28T18:12:26.157859+00:00",
     "5039689886a6dff0270faa24ebe608e0c20d759e420b18b69aa8b39027c45468": "2026-07-20T19:51:59.386866+00:00",
+    "509ce0ba84fb3a940c9f38c9c6e2523dca76da089289a23230cf730df1258764": "2026-08-18T13:41:52.226843+00:00",
     "50c96042a9360280f988dc7172603e5eb330743f11c8794590da7c265f99edf3": "2026-08-07T15:53:12.818451+00:00",
     "50e98d479dd6afc7e7d90bbd46109493fd2cd99f53194b17905aa8cc3a20447d": "2026-08-10T07:26:54.223427+00:00",
     "5102e25ece2800571f64126da97257a1c01f50756e28d3850c9626a26c9a9e72": "2026-07-28T16:40:55.776146+00:00",
