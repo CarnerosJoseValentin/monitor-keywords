@@ -1,6 +1,45 @@
 {
   "last_report_date": "2026-08-19",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "cocaína"
+      ],
+      "published": "2026-08-19T13:18:05Z",
+      "snippet": "Un nene de 2 años llevó al jardín 71 envoltorios de cocaína y la madre fue detenida El hecho sucedió en un jardín da la ciudad de Córdoba . Según sostuvo la mujer, las drogas eran el medio con el que mantenía a sus hijos menores. El hecho sucedió en un jardín da la ciudad de Córdoba . Según sostuvo …",
+      "text": "Un nene de 2 años llevó al jardín 71 envoltorios de cocaína y la madre fue detenida Un nene de 2 años llevó al jardín 71 envoltorios de cocaína y la madre fue detenida El hecho sucedió en un jardín da la ciudad de Córdoba . Según sostuvo la mujer, las drogas eran el medio con el que mantenía a sus hijos menores. El hecho sucedió en un jardín da la ciudad de Córdoba . Según sostuvo la mujer, las drogas eran el medio con el que mantenía a sus hijos menores. El hecho sucedió en un jardín da la ciudad de Córdoba . Según sostuvo la mujer, las drogas eran el medio con el que mantenía a sus hijos menores.",
+      "title": "Un nene de 2 años llevó al jardín 71 envoltorios de cocaína y la madre fue detenida",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.minutouno.com%2Fsociedad%2Fun-nene-2-anos-llevo-al-jardin-71-envoltorios-cocaina-y-la-madre-fue-detenida-n6312273&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw3y9cMvLQ8GcGXXnS1sKIJR"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "contrabando"
+      ],
+      "published": "2026-08-19T13:09:10Z",
+      "snippet": "Detuvieron en Bolivia a un argentino prófugo por contrabando y asociación ilícita Fue localizado en Tarija mediante un operativo conjunto y posteriormente expulsado de Bolivia. Gendarmería lo recibió en el paso internacional&nbsp;... Fue localizado en Tarija mediante un operativo conjunto y posterio…",
+      "text": "Detuvieron en Bolivia a un argentino prófugo por <b>contrabando</b> y asociación ilícita Detuvieron en Bolivia a un argentino prófugo por contrabando y asociación ilícita Fue localizado en Tarija mediante un operativo conjunto y posteriormente expulsado de Bolivia. Gendarmería lo recibió en el paso internacional&nbsp;... Fue localizado en Tarija mediante un operativo conjunto y posteriormente expulsado de Bolivia. Gendarmería lo recibió en el paso internacional&nbsp;... Fue localizado en Tarija mediante un operativo conjunto y posteriormente expulsado de Bolivia. Gendarmería lo recibió en el paso internacional&nbsp;...",
+      "title": "Detuvieron en Bolivia a un argentino prófugo por <b>contrabando</b> y asociación ilícita",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fsucesos%2F2026%2F8%2F19%2Fdetuvieron-en-bolivia-a-un-argentino-profugo-por-contrabando-y-asociacion-ilicita-257779.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw3FrCPOwyyTUkFW40MLopZk"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas",
+        "cocaína",
+        "narcomenudeo",
+        "policia"
+      ],
+      "published": "2026-08-19T07:46:18Z",
+      "snippet": "Un hombre fue sorprendido por policías vendiendo drogas : secuestran cocaína, pasta base ... El procedimiento, enmarcado en una infracción a la Ley 23.737 de Narcotráfico , adherida a ella la Ley Provincial 9.188 de Narcomenudeo; permitió la&nbsp;... El procedimiento, enmarcado en una infracción a l…",
+      "text": "Un hombre fue sorprendido por policías vendiendo <b>drogas</b>: secuestran cocaína, pasta base ... Un hombre fue sorprendido por policías vendiendo drogas : secuestran cocaína, pasta base ... El procedimiento, enmarcado en una infracción a la Ley 23.737 de Narcotráfico , adherida a ella la Ley Provincial 9.188 de Narcomenudeo; permitió la&nbsp;... El procedimiento, enmarcado en una infracción a la Ley 23.737 de Narcotráfico , adherida a ella la Ley Provincial 9.188 de Narcomenudeo; permitió la&nbsp;... El procedimiento, enmarcado en una infracción a la Ley 23.737 de Narcotráfico , adherida a ella la Ley Provincial 9.188 de Narcomenudeo; permitió la&nbsp;...",
+      "title": "Un hombre fue sorprendido por policías vendiendo <b>drogas</b>: secuestran cocaína, pasta base ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.contextotucuman.com%2Fnota%2F408256%2Fun-hombre-fue-sorprendido-por-policias-vendiendo-drogas-secuestran-cocaina-pasta-base-y-marihuana.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw0verdCii7aPPo5Y3tAlI6u"
+    }
+  ],
   "seen": {
     "00531b4685d345974186ddb164ca6b23a0a5b38028f4eacbdf6539e6301d62b3": "2026-08-10T23:32:03.776691+00:00",
     "00755c0d9ebb55692308d23e3874eb0052d33eb6a8d36acb21e7cd5f1187cb9b": "2026-08-07T15:53:12.819708+00:00",
@@ -154,6 +193,7 @@
     "287ccb56f3a276d654731e22d789cbd8e1e85333410aee0483cecdf3b9bd6b33": "2026-08-04T17:45:48.520364+00:00",
     "28b5bcb99ea09d2b880b92b67e8308e6aed21463fd10b0d29e1106cdc6aa7904": "2026-07-31T16:43:21.135639+00:00",
     "28cc2b236285ba865640fe4575d63062b62607ecb9fec32810b3764a8412e7f4": "2026-07-26T20:07:03.092895+00:00",
+    "29160969ec32fde86f8a68cce6d8ba73426aed1045bfe06fc508fe6b37284b87": "2026-08-19T13:41:07.014054+00:00",
     "29ee03ee0afbc89c7080c29ec1050ef5b03893dcfc68a7f0654b894858c7c722": "2026-08-16T17:16:35.671130+00:00",
     "2a039b92dcf626f976b0164d4cbc960d2d6ad18829db4a8317367eb143f39a4b": "2026-07-23T19:12:23.844571+00:00",
     "2a20ec0c913f3b30cabe74c424c67e97101df3d35190278abdf6df092e320b8b": "2026-08-05T20:26:48.444261+00:00",
@@ -581,6 +621,7 @@
     "8fe181c947c2b02dafd4a0fc460c550cde5449c43067058556ba7764201e4a95": "2026-08-09T14:31:22.235924+00:00",
     "90069025af9341a9deb87ce002cc792f29e3082c3879f43c3a11e3eaacb84091": "2026-08-08T21:29:16.128808+00:00",
     "90111d038999eaab78de81190da3d35645f9a3ca8f693850f2305d0f4ac6dbd3": "2026-08-07T00:39:32.410746+00:00",
+    "9107010578a21e3f14286f4ba973329f7149ddedc6286e2247d8149c42106848": "2026-08-19T13:41:07.014493+00:00",
     "911fdabbab8d2a5940bd7b8f243fbb186e9df2a3e58271f42221d25101ea00e4": "2026-08-05T14:02:24.241799+00:00",
     "9186986641cc7764b5705f550b3291b37b1f4e20450e7d1be353c8c476ed88aa": "2026-08-04T19:27:57.619954+00:00",
     "91a023ea227abb9351a46a41e33f01d70b408610b34a515c8ab08d0c60b56f31": "2026-07-27T22:58:58.505882+00:00",
@@ -997,6 +1038,7 @@
     "f3eb85540d7bb96cc6c2fa63550933fc7ddedc667171351d831ee7bce3857cf7": "2026-08-15T21:17:57.268739+00:00",
     "f4858490eb8a674dbe6f5a26e7a5e471b86513f8e0ad4a7fd9dc100f14f579f7": "2026-08-02T17:59:34.126513+00:00",
     "f4a4a033eb8214c96735fb8d4926b817d644c826678925dd0f43a93035d918c1": "2026-08-16T21:16:53.468855+00:00",
+    "f4a7a065d292101561d151d04593496d8ef6616880805b8a03d070a31c293b73": "2026-08-19T13:41:07.015729+00:00",
     "f4fddb8c3f6dcacc8959e054442ae84f61477640d6f1d4fc5fc6fafdb404ac3c": "2026-08-04T19:27:57.617882+00:00",
     "f5349d372e971186b8cda0597169bef5e9b614639d6645ac27c292227164dcc6": "2026-07-31T22:02:27.329178+00:00",
     "f55c4a7c2dfbe620ba9c5106a6598d83656bb952417f32ec678b779eb2017bf7": "2026-07-31T16:43:21.139103+00:00",
