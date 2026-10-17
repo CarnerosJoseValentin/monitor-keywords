@@ -1,6 +1,43 @@
 {
   "last_report_date": "2026-10-17",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas",
+        "cocaína",
+        "estupefacientes",
+        "policia"
+      ],
+      "published": "2026-10-17T16:22:46Z",
+      "snippet": "San Luis : desbarataron un centro de venta de drogas e incautaron cocaína por más de $1 millón El procedimiento se realizó en el barrio San Luis XXVI, en el marco de la Misión Sarmiento. La Policía secuestró estupefacientes,&nbsp;... El procedimiento se realizó en el barrio San Luis XXVI, en el marc…",
+      "text": "<b>San Luis</b>: desbarataron un centro de venta de <b>drogas</b> e incautaron cocaína por más de $1 millón San Luis : desbarataron un centro de venta de drogas e incautaron cocaína por más de $1 millón El procedimiento se realizó en el barrio San Luis XXVI, en el marco de la Misión Sarmiento. La Policía secuestró estupefacientes,&nbsp;... El procedimiento se realizó en el barrio San Luis XXVI, en el marco de la Misión Sarmiento. La Policía secuestró estupefacientes,&nbsp;... El procedimiento se realizó en el barrio San Luis XXVI, en el marco de la Misión Sarmiento. La Policía secuestró estupefacientes,&nbsp;...",
+      "title": "<b>San Luis</b>: desbarataron un centro de venta de <b>drogas</b> e incautaron cocaína por más de $1 millón",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Felchorrillero.com%2Fnota%2F2026%2F10%2F17%2F669608-san-luis-desbarataron-un-centro-de-venta-de-drogas-e-incautaron-cocaina-por-mas-de-1-millon%2Famp%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw1sRsqFPcKdOgkhgGi1GFIS"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-10-17T10:03:01Z",
+      "snippet": "Corrupción: el mal argentino que Mendoza no puede esquivar Diario Mendoza Today Google Preference Agregá Diario Mendoza Today como fuente preferida ... drogas . Pero hay más, como quien no quiere la cosa, ya que&nbsp;... Diario Mendoza Today Google Preference Agregá Diario Mendoza Today como fuente …",
+      "text": "Corrupción: el mal argentino que <b>Mendoza</b> no puede esquivar Corrupción: el mal argentino que Mendoza no puede esquivar Diario Mendoza Today Google Preference Agregá Diario Mendoza Today como fuente preferida ... drogas . Pero hay más, como quien no quiere la cosa, ya que&nbsp;... Diario Mendoza Today Google Preference Agregá Diario Mendoza Today como fuente preferida ... drogas . Pero hay más, como quien no quiere la cosa, ya que&nbsp;... Diario Mendoza Today Google Preference Agregá Diario Mendoza Today como fuente preferida ... drogas . Pero hay más, como quien no quiere la cosa, ya que&nbsp;...",
+      "title": "Corrupción: el mal argentino que <b>Mendoza</b> no puede esquivar",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fmendozatoday.com.ar%2Famp%2Fcorrupcion-el-mal-argentino-que-mendoza-no-puede-esquivar%2F&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2faW9Q9NGFJnWhA9plyJO-"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico"
+      ],
+      "published": "2026-10-16T18:35:25Z",
+      "snippet": "La advertencia de Santilli de cara a 2027: &quot;Los que tendrían que estar preocupados ... - El Canciller También incluyó a Córdoba (retenciones), Santa Fe ( narcotráfico en Rosario), San Juan (cobre) y Salta (litio). TE PODRÍA INTERESAR:. También incluyó a Córdoba (retenciones), Santa Fe ( narcotr…",
+      "text": "La advertencia de Santilli de cara a 2027: &quot;Los que tendrían que estar preocupados ... - El Canciller La advertencia de Santilli de cara a 2027: &quot;Los que tendrían que estar preocupados ... - El Canciller También incluyó a Córdoba (retenciones), Santa Fe ( narcotráfico en Rosario), San Juan (cobre) y Salta (litio). TE PODRÍA INTERESAR:. También incluyó a Córdoba (retenciones), Santa Fe ( narcotráfico en Rosario), San Juan (cobre) y Salta (litio). TE PODRÍA INTERESAR:. También incluyó a Córdoba (retenciones), Santa Fe ( narcotráfico en Rosario), San Juan (cobre) y Salta (litio). TE PODRÍA INTERESAR:.",
+      "title": "La advertencia de Santilli de cara a 2027: &quot;Los que tendrían que estar preocupados ... - El Canciller",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Felcanciller.com%2Fpolitica%2Fla-advertencia-de-santilli-de-cara-a-2027---los-que-tendrian-que-estar-preocupados-son-los-gobernadores-_a6ad223180587ca4e7bc074bd%3Foutput%3Damp&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2dVyFW5TFdcACAnq5ftCTq"
+    }
+  ],
   "seen": {
     "001aaa988435ef4c2f7fc9860e4ffd0226eee04c573e0d9e94a3a6ef16eec8d8": "2026-09-23T18:49:18.375970+00:00",
     "00733285ff49bf9efbe4c1b107f534e7ed8539aaf635b9dd13abdfd6359ce9db": "2026-09-29T17:36:52.182437+00:00",
@@ -80,7 +117,6 @@
     "12e816c6c1a8bd9c9a9b2a51b7c1317cabd8273062d1f2161f097086f48570ca": "2026-09-20T05:41:53.136428+00:00",
     "12f72d8f39b2426e75651adb599c0fb63bb0cdeeee6e02e051812dabf5f94bfe": "2026-09-21T12:09:16.533455+00:00",
     "1304041e76ff76ae3cb4f02b11724c8b09012b1ec354a6b143e038a0b3cbf7be": "2026-09-18T10:33:18.377554+00:00",
-    "13b8696ca9874f3964c79a551a8ac2eac9dd24b6260996b60a2f4eb5d60d090d": "2026-09-17T15:27:09.449962+00:00",
     "1442d249daa12fb6c106f9716b9c242d46bde66b8126665bd0605dde901c6479": "2026-09-22T23:28:55.646094+00:00",
     "145f279dc077ec75cff676ed2b26da52612785c990acdd57dc66251d95933992": "2026-09-19T16:13:20.465676+00:00",
     "146ef6ae55e810cae3bd3f17ea67d3683db7327a9b931af5357352f4923e6c3e": "2026-10-15T18:00:26.880369+00:00",
@@ -165,7 +201,6 @@
     "2983038678a3dc7166c8619b65f939a67337c5409bd97afec308b8a48c20322d": "2026-09-22T23:28:55.723602+00:00",
     "29a34825e885f1ae2cbbfc57efb9edd0d99a9f335743df1951bfda8dd1e3ec38": "2026-10-07T02:04:16.880694+00:00",
     "29bf7648ac6aaaa353ad0f3ca5131488bdd8b232b372064ce68bd902ae4c23bf": "2026-09-24T01:03:15.713625+00:00",
-    "2a6d56b67a9b6703cf1a87a766464809b94307390770711edc62a3970e912821": "2026-09-17T15:27:09.452803+00:00",
     "2aa68fcd9a24164fbac634cc1c8017b414c35e72fe77ac2819522dd07d495058": "2026-09-28T23:41:19.529959+00:00",
     "2aad6fff54682e747d444480d5ab711378178d8c40cae21098c93877b42420e6": "2026-10-09T22:14:06.615775+00:00",
     "2abd6ed57cb4991b7827d621233fdb8579cfb69bd2a1676c71d9cc733697637e": "2026-10-17T14:56:30.055062+00:00",
@@ -197,7 +232,6 @@
     "31888a46737b20fd64f530c5815bdb0aceaf1f5911c6e6878fcb6054c5c38005": "2026-09-21T18:27:40.216695+00:00",
     "31bbdafe516a329436518fcb199e9c79dce24ae843b88969ccfe84a605e7103d": "2026-09-24T21:57:06.322972+00:00",
     "324b1fe9c740366d79b51423d16df6e0a6f5a72c45ccc2509389c153087f3c1e": "2026-09-23T22:02:33.838047+00:00",
-    "3264459f9ab461d3f7e4952e5a4c85ba16ba4c419fc34911390c7ef37d54bd18": "2026-09-17T15:27:09.450410+00:00",
     "329f5ca8b4457a5c54b821a6f49e636c728fba16508c25807214d59bda7265f4": "2026-09-30T19:48:44.219490+00:00",
     "32aea1f11b80b50fa0709791d16544050eadd5f0fc0300f70cd13498ff2c53fe": "2026-09-27T17:28:20.494992+00:00",
     "32b464e050a3d646889c72e4304553e04ad9958a4e20aa9635c9ba2d60c5b1a4": "2026-10-16T19:17:20.853347+00:00",
@@ -218,7 +252,6 @@
     "379472ba0a3a269a735f92468a790357dd59a8b5d4a92a8d6bf5ea754e0924ba": "2026-10-07T17:14:06.231220+00:00",
     "3802d62a8a1b6a45e69f8fb73a572e76a8d9da1c5704ea2aca1efe55fb1970ee": "2026-09-25T11:07:34.130755+00:00",
     "38283ac1f69d1074fd3177bc80c34847a6a81b95ec9d49d78b18bd559f857245": "2026-10-17T06:32:19.069366+00:00",
-    "38872c2b959ee23b0f0ab2bb3ad719001b00dc06a36f4cc69381f83d6c58b7fd": "2026-09-17T15:27:09.454804+00:00",
     "394069afded54c340b87b442e9229e7f4e62dbf0183d09bdf39d662a9a3465d2": "2026-10-02T20:20:52.431974+00:00",
     "39a9164566eb12a4a490d4068b784aa7ec5acc734c6a4abdee93a7b7aa2394bd": "2026-09-29T04:11:42.975307+00:00",
     "39b4883cbc0d5e2ea552c056a905de3cdd732eb9e2a57f138ca333c4c95fc55b": "2026-09-29T21:50:55.418127+00:00",
@@ -236,6 +269,7 @@
     "3d79702fe016ef397e5236dcdf4e5932272c4ecef3be6425f0083e85c1db43c6": "2026-09-22T13:04:36.027378+00:00",
     "3db540ee7b25626f6d947a1d382bf0afb3f408ba437662220150f5d5ada16943": "2026-09-24T18:10:28.779400+00:00",
     "3ddcb0e74ddb1e4bd0e2bc90cd20378652d9e6302a40f731856835b33dadf667": "2026-10-07T17:14:06.229988+00:00",
+    "3dec5f4870e10bb960197464a6e14ad4ade97a29dc1dd1705e8207be0193515e": "2026-10-17T17:46:27.392882+00:00",
     "3ec37b6e9746c4bcf031ff2cbc073858e5ae38eeb7ea049bd40602e65ca140d7": "2026-10-08T17:17:18.883436+00:00",
     "3ee013672b2112d0edc5545117b5141b64477e0c87b7d44b8a839f367bbc6990": "2026-09-29T17:36:52.180034+00:00",
     "3ef7e06fdb24a8aa776a2a3e3be437668c6fc68d31cfd14c62ae8152c0eb6f02": "2026-10-06T22:19:11.129852+00:00",
@@ -335,7 +369,6 @@
     "5612396afccb229bc1b8e74e5498fe129e7bffcaf02453b9d11eb76208e0bb7a": "2026-10-11T10:40:25.676115+00:00",
     "570f6620e56e3eed44b5ad398f3dd5f81ce55c6db1fe4311db6854366fe0c993": "2026-09-17T19:31:30.832149+00:00",
     "572b61d318567df8730247c407ed231045c23a69177fe26860ebd4058fbac9a8": "2026-09-25T00:19:45.088145+00:00",
-    "574ab07e195fb2fe23adf3026cf44eedd05caf87d6b9e16d4bde21d63cc73a29": "2026-09-17T15:27:09.109773+00:00",
     "576a1fcc1e9bb415870f59ef1db77fbc019bd19443fc93b333a685d1802cd274": "2026-10-05T23:43:28.309527+00:00",
     "576cc02af59387ebdbeb672d78ea913c0bb9b4b5b785240aff3c8d06897637bf": "2026-09-27T17:28:20.491762+00:00",
     "58319b03b39dfbdeb6295ac02b201bd5b0d6d9ea26230975f618dd4b2ee3fb68": "2026-10-10T02:03:44.332015+00:00",
@@ -408,7 +441,6 @@
     "69a59a90859437215f3fce149ac682ec603e879ac9f622cae44fbaa0802a3d1b": "2026-10-06T17:54:39.477799+00:00",
     "69a73b81efd0bafb3e1b59bbde39fc0d256cd027f2b53b68cd388d0ca1912154": "2026-10-09T17:17:52.928326+00:00",
     "69b0615fc9b2b2a8fdf5f50c147b9067f8270759484f911334468edc1f843a61": "2026-10-08T17:17:18.383569+00:00",
-    "69d48dd35cc0c2684e6784b135abb3f9d247383fb70f3888889d46e7227e028c": "2026-09-17T15:27:09.450924+00:00",
     "6a6497bffaeb3b7a873ddc5fad2d76f39dd980dfbc11bee5d92968324217295e": "2026-09-30T19:48:44.217843+00:00",
     "6a7add798da378aa29388c9fdf7bf687c9d8c6d7ab6d84965cd66fc133ebc043": "2026-10-15T18:00:26.878200+00:00",
     "6a8d3fc3e9c35a94df847fe37d139e167c2ef84e17ee77275e4e7749a7748a00": "2026-09-26T18:18:22.689030+00:00",
@@ -416,6 +448,7 @@
     "6adf3022150b9aa464b06252b11904b98853fbc7cc4937b2dffd9a4ad5215379": "2026-10-02T15:22:20.340825+00:00",
     "6af5b68abb2a04ca3b4bce7ff4fb89bc0a5cde259eac94761e6f267672861c3c": "2026-09-18T18:03:37.421536+00:00",
     "6af7c629b46b3d778fbeafadd9a6805fc7f87f8df0c8d1eb92f28b8406f669cb": "2026-10-05T23:43:28.066905+00:00",
+    "6bc59b3f87f667ff0af35856f51051d353d1baa539cf3f5ff8a28b89d16a8ca1": "2026-10-17T17:46:27.397666+00:00",
     "6be03153c30fe4ab597f3ab55bd39f59c902c0a029a26073f964de19fd7fddfb": "2026-09-21T18:27:40.135178+00:00",
     "6c28397bacaaa27ad62c493b4f5f751b3304161373b9c77874b3fe06b926816f": "2026-10-12T23:29:09.855562+00:00",
     "6d67f24d9bc66778ce7cc14a7c4b2f50bdea8cca36e5cf48d56e1b2f78d47178": "2026-09-25T05:47:28.298991+00:00",
@@ -581,6 +614,7 @@
     "985c5fdef0f010a3619e2b605da476c59465457c3f3c33111cb6e98628c9f229": "2026-10-02T02:00:00.332960+00:00",
     "985e0c6be65432e9f414e5a5556f0b58f16efea208261bab00c0aef810539147": "2026-09-26T14:05:03.293416+00:00",
     "99118c8273b88d7b4d4b2ab70d71493f771b23fb5b2e3756b80c6197d67a7ac0": "2026-09-29T17:36:52.183607+00:00",
+    "9963274cd03c388a844107670ed90eb551c0c898753895b7aa15af21a88b148e": "2026-10-17T17:46:27.393339+00:00",
     "9a89049335d4a677825a82baaa28e7acf476c8b11b4b1c660ca162f6f53ffaf1": "2026-10-07T22:41:20.304204+00:00",
     "9ab281f5c8c3e77b2ba3d19ce595843d0a1ff415d718cdb97445400c636bb633": "2026-09-19T22:05:56.254983+00:00",
     "9ab57f32d44c80f779ca5bfe10c6edfcd59a193622e231183132f4744951317f": "2026-10-02T01:59:59.977958+00:00",
@@ -675,7 +709,6 @@
     "ab25fa267a1e2dd021d2741b3189bde81a5365ff644e42afeabf08508fa37c6e": "2026-09-19T22:05:56.254441+00:00",
     "ab75972365705c81b38723798f8d670cbaeadbcab106a89af017b8ff1297d816": "2026-10-12T16:34:33.430754+00:00",
     "aba9d86cd598a77d950aec4965397c54e489e90a1fceec25f202726c4499ca8a": "2026-10-14T20:26:22.473675+00:00",
-    "abbcdad0edd3a3de1f5940be33fb0f236471c70561cef68b8103a0eb27799b31": "2026-09-17T15:27:09.452040+00:00",
     "abeaec07f8ac55c460104679f02be52087d4dab7a87f1e3797198c911523c49a": "2026-10-12T16:34:33.429462+00:00",
     "ac0525681cc3519789d119268f17404936bcbafa94aad59ab049a5181f017b08": "2026-09-19T08:30:57.312099+00:00",
     "ac33297cad014dc953df807b98704f4354cc82bba3322f909f51d4a713a62f9e": "2026-10-10T02:03:43.862850+00:00",
@@ -725,7 +758,6 @@
     "b713e451a4ed37add05145933a1de0ce8c6ff34397cff8aabdd9017baaa956b5": "2026-09-24T18:10:29.178963+00:00",
     "b7e3f84b95dc73233acf2e6b2116fc3d47eb2bf24b8018d1ad22c7d6c2509ba6": "2026-10-16T19:17:20.850245+00:00",
     "b7ed497f777fa6094408a4e89ada4a1bfc47c4e42d158d1587b30823ed61de21": "2026-10-14T00:08:04.430053+00:00",
-    "b85e87578733230249adcf00d7519e7d8a0f0a825edb6dbf33baf892d11e91ef": "2026-09-17T15:27:09.451701+00:00",
     "b8bfff77b2ad958e8a90b9ada44d5f2408df4b289ed06956415c5d71a8f472aa": "2026-09-22T13:04:36.617543+00:00",
     "b8c6466cfd873ee386f38e5311b2413e0156b26fa6802ab698c45a4cc5cccde9": "2026-09-21T22:25:27.084023+00:00",
     "b91e8b3955a45e1ae94a10ec0276082e3e82d78deaef1b7d0206df2fd3d79d0c": "2026-09-29T17:36:52.180827+00:00",
@@ -799,7 +831,6 @@
     "cb528db0ddbdbe217f635bc70a27c4e61b8134fc2a5d92f0e4458a7812ca358e": "2026-09-28T18:25:46.301772+00:00",
     "cb6eceb8fa1aa70960cff3b4f3dd8b91b81c129a29d9678c3da9225a6bf487b3": "2026-10-10T23:12:47.281537+00:00",
     "cb8f6f34e02beaebe23a6d46df0959c180abf8e45b6c3b8be7094efcdb118333": "2026-09-29T04:11:42.969276+00:00",
-    "cb9aac588fbb99114aba9ff05c6e7909b1a7594c249b24f8e9e8f76e91c52e21": "2026-09-17T15:27:09.109297+00:00",
     "cba5103d5501af1e9e2b528e858d843eaed1d815fef034ece8973b77795a403e": "2026-10-14T16:31:00.032822+00:00",
     "cbb021b1abbccfa04e0fb6384148af1d411ea8dfd60b16a85bbf2b08910b8cfe": "2026-09-23T18:49:18.374719+00:00",
     "cbc2ade1b5e1ea99a32723eb518dc2b5b5c711713c85c007b01e439b81a27685": "2026-09-22T01:25:15.113187+00:00",
@@ -962,7 +993,6 @@
     "f0bff2787bc9a144a80d18b4f494d2e97ae1814445b3e3de2df2cfb4e359eeb2": "2026-10-14T00:08:04.427420+00:00",
     "f15fda64edb6f9f74fbb393e23e34994847dde71bd94a048adf8f83ab6e757bf": "2026-09-19T12:53:31.436188+00:00",
     "f16909e7b1ac842036531ea4a7030040ed5b82afa81a10225246a87e17d392e8": "2026-09-25T16:30:46.307406+00:00",
-    "f18241244c1a01031403913b26951a440fa4f63425349e4d0f34afe81e5be59d": "2026-09-17T15:27:09.454376+00:00",
     "f18534cc198243863475f10b70bcb43f3bff2c9939cfc3c20f3feb934f1fe17b": "2026-10-08T17:17:18.887703+00:00",
     "f1a41bb05c33e6b3e0210d5c51ea93cb78aa1e0856ff7da510c5fd77a8a34028": "2026-09-22T13:04:36.619620+00:00",
     "f1d9ed6b6fe2b732519a11b4a92d3aa76149244028e4af562b7c4c6446cf554e": "2026-10-13T20:04:30.297503+00:00",
