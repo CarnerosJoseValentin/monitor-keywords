@@ -1,6 +1,41 @@
 {
   "last_report_date": "2026-11-01",
-  "reporte_diario": [],
+  "reporte_diario": [
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "narcotráfico",
+        "drogas"
+      ],
+      "published": "2026-11-01T19:59:36Z",
+      "snippet": "Córdoba reunió a especialistas internacionales para debatir la lucha contra el narcotráfico El funcionario también destacó la demolición de puntos de venta de drogas , el decomiso de bienes provenientes de actividades ilícitas y la&nbsp;... El funcionario también destacó la demolición de puntos de v…",
+      "text": "<b>Córdoba</b> reunió a especialistas internacionales para debatir la lucha contra el <b>narcotráfico</b> Córdoba reunió a especialistas internacionales para debatir la lucha contra el narcotráfico El funcionario también destacó la demolición de puntos de venta de drogas , el decomiso de bienes provenientes de actividades ilícitas y la&nbsp;... El funcionario también destacó la demolición de puntos de venta de drogas , el decomiso de bienes provenientes de actividades ilícitas y la&nbsp;... El funcionario también destacó la demolición de puntos de venta de drogas , el decomiso de bienes provenientes de actividades ilícitas y la&nbsp;...",
+      "title": "<b>Córdoba</b> reunió a especialistas internacionales para debatir la lucha contra el <b>narcotráfico</b>",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.eldiariodecarlospaz.com.ar%2Fprovincial%2F2026%2F11%2F1%2Fcordoba-reunio-a-especialistas-internacionales-para-debatir-la-lucha-contra-el-narcotrafico-263384.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2tBdlWvDUNesCc-sCqrzoX"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "drogas"
+      ],
+      "published": "2026-11-01T15:05:45Z",
+      "snippet": "PAREJA NARCO DETENIDA - Multimedios Maldoni ... drogas en las localidades de Arias y Alejo Ledesma. Los ... La Pampa s/n de la localidad de Arias. Finalmente, por disposición de&nbsp;... ... drogas en las localidades de Arias y Alejo Ledesma. Los ... La Pampa s/n de la localidad de Arias. Finalmente…",
+      "text": "PAREJA NARCO DETENIDA - Multimedios Maldoni PAREJA NARCO DETENIDA - Multimedios Maldoni ... drogas en las localidades de Arias y Alejo Ledesma. Los ... La Pampa s/n de la localidad de Arias. Finalmente, por disposición de&nbsp;... ... drogas en las localidades de Arias y Alejo Ledesma. Los ... La Pampa s/n de la localidad de Arias. Finalmente, por disposición de&nbsp;... ... drogas en las localidades de Arias y Alejo Ledesma. Los ... La Pampa s/n de la localidad de Arias. Finalmente, por disposición de&nbsp;...",
+      "title": "PAREJA NARCO DETENIDA - Multimedios Maldoni",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.multimediosmaldoni.tv%2Finicio%2Fnoticia%2F44163%2FPAREJA-NARCO-DETENIDA.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw0NCR80xe9TcJgIjEVngRNG"
+    },
+    {
+      "domain": "www.google.com",
+      "keywords": [
+        "aeropuerto"
+      ],
+      "published": "2026-11-01T14:28:29Z",
+      "snippet": "Alerta en el aeropuerto de Ezeiza: 15 turistas llegaron desde Ushuaia con síntomas de intoxicación Los pasajeros arribaron en tres vuelos de Aerolíneas Argentinas y debieron recibir asistencia médica. Investigan si el cuadro se originó durante&nbsp;... Los pasajeros arribaron en tres vuelos de Aerol…",
+      "text": "Alerta en el <b>aeropuerto</b> de Ezeiza: 15 turistas llegaron desde Ushuaia con síntomas de intoxicación Alerta en el aeropuerto de Ezeiza: 15 turistas llegaron desde Ushuaia con síntomas de intoxicación Los pasajeros arribaron en tres vuelos de Aerolíneas Argentinas y debieron recibir asistencia médica. Investigan si el cuadro se originó durante&nbsp;... Los pasajeros arribaron en tres vuelos de Aerolíneas Argentinas y debieron recibir asistencia médica. Investigan si el cuadro se originó durante&nbsp;... Los pasajeros arribaron en tres vuelos de Aerolíneas Argentinas y debieron recibir asistencia médica. Investigan si el cuadro se originó durante&nbsp;...",
+      "title": "Alerta en el <b>aeropuerto</b> de Ezeiza: 15 turistas llegaron desde Ushuaia con síntomas de intoxicación",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https%3A%2F%2Fwww.mdzol.com%2Fsociedad%2F2026%2F11%2F1%2Falerta-en-el-aeropuerto-de-ezeiza-15-turistas-llegaron-desde-ushuaia-con-sintomas-de-intoxicacion-1992261.html&ct=ga&cd=CAIyHDViNDI0YjA0MGQ3ZDBlYjc6Y29tOmVzOkFSOlI&usg=AOvVaw2kNs1mqOUR3PKcEKn6Gv-w"
+    }
+  ],
   "seen": {
     "012572fc07ef5334c863e3d34d22db605a1d25a9ad8e1592c33d6c1245e1817f": "2026-10-19T18:59:30.412062+00:00",
     "013a98cddf022467440c57f656a048f23cb725e2f15b40bc676fd2e32849100f": "2026-10-30T00:35:41.286223+00:00",
@@ -8,7 +43,6 @@
     "0251d4c77a4fa5b4ea92bb3607b1fd2ed3accf9ad9e28451ce1e234e1bf790f0": "2026-10-08T22:52:53.321983+00:00",
     "0258f6733d65993838718d4f6cc27c2ec87edf06963f6c4861a3e1e3b7761644": "2026-10-10T19:44:18.262973+00:00",
     "027a708a8997fca4e54f084af7be7b1c451f762a489b2612f9408c2a5e694291": "2026-10-07T17:14:06.227547+00:00",
-    "02ab47e2bed0ce495e29d13e2dad6ea02c65b6347c9dae6cf1a586ff7af4f52a": "2026-10-02T20:20:52.430617+00:00",
     "03695ed8500dfbd76fb03607fc276b9d75bbb9f98c43517ee36c3e0f5949c68c": "2026-10-10T19:44:18.260758+00:00",
     "037f1e6b9d5cbb61c5338522d33146840b579dfe42133995ee96e45ebc75233e": "2026-10-22T18:16:04.715125+00:00",
     "03cec8dde9567f0e71aebb92785b8121d631e66a0a73b6dd24b29366a9aea917": "2026-10-26T21:19:58.691977+00:00",
@@ -73,6 +107,7 @@
     "11904c7ebd92cd066babcd1fcd811c2fee09f28f82117bd7636950b7fa09e691": "2026-10-07T17:14:06.230757+00:00",
     "11ab31b0dd3dd872a375242b4453e458335ffa4fd1a72996f60e180db199ef5f": "2026-11-01T17:38:01.522084+00:00",
     "11c8b4eb220fc5aee590385fd34fce3e8561b215fd3459687dbf199a51b83da9": "2026-10-15T13:55:34.318016+00:00",
+    "11f5b0d85c77ccd01a2a0d36a2fbe9d34926061e83d3404ea2398b111ae46322": "2026-11-01T21:41:06.395715+00:00",
     "1242b64f5cba067041f30c87b7cb91a365011207564ae8c19e1282b05eea16c0": "2026-10-30T06:47:06.904618+00:00",
     "125aaf3c631ee095038ed71ef69dc73354b1fc2d0d5c1ebe4f791c148181c659": "2026-10-27T07:16:23.926409+00:00",
     "12751a10976ed9c70275f3a0c33c05e4fd253ce6d38540155e10120612cfa2c7": "2026-10-07T22:41:20.636192+00:00",
@@ -138,7 +173,6 @@
     "2019b2ed9c02b0b29be51b8ad763d1b623fdd82fe46070103ac861bba3b4c147": "2026-10-25T21:24:55.118981+00:00",
     "20bb8adcb3166c059de2f1827a899e63474797b1d08809485bbbf34a8243702c": "2026-10-15T18:00:26.879693+00:00",
     "20e3cd7f74118dae8ceeecdc72d5bc747223673ad342b49d636277fec54db080": "2026-10-29T20:51:30.255582+00:00",
-    "2159f15442ae22b18a44341594047b90093a53e3306d47ffe574cbe388190427": "2026-10-02T20:20:52.427238+00:00",
     "215d4ef3cacf666b5e4f9e353244b7e992d5d77751c56ad0a747570cf4a626dd": "2026-10-23T17:41:34.370088+00:00",
     "219723837b0e15686a106403d9f81233a9a4d3425a4b627bd60f5ea44c27ab4c": "2026-10-29T15:09:29.928390+00:00",
     "2229390071c6b3dce9b56c1d23302af97e797958f131bfe32dd9c134bba6ce92": "2026-10-23T20:58:26.915976+00:00",
@@ -156,6 +190,7 @@
     "27c067682b3a6f9d3b3270c9193b026efa1e25622a723fa5d44dcaffb20ff7be": "2026-10-28T16:58:40.891438+00:00",
     "28106480b794f4d7d1edda204eeafd3cbc215747b848fe0cc88e866df54ea729": "2026-10-15T21:55:11.512989+00:00",
     "2836106e231e1728af51f2195a5112767b37e82b26d19424f0eb6f6d1f6693bc": "2026-10-28T03:57:15.763688+00:00",
+    "2838b3eb1b6fe91eaba14ee13dab33cba252e6ba614801be4724bf6acacc4e05": "2026-11-01T21:41:06.396581+00:00",
     "28a71c07434fcac4f1b50dbe025160bd37e814a15a992981b5ccd5c8f65b37d7": "2026-10-07T22:41:20.632260+00:00",
     "28bbbc0597d86234fd929943c67a5ed751c8cae71480d8b701eeecf0d4789d8f": "2026-10-12T23:29:09.856554+00:00",
     "28ce175278fb44f6d360e0bf707ae7283517cc78b38ca4f32ce38f2f9b4dee44": "2026-10-17T01:02:10.430869+00:00",
@@ -219,7 +254,6 @@
     "389a982555f7427f6ed2b8eae6dcd5ba5891274e0a1c3145e55814530969f936": "2026-10-27T19:14:09.583843+00:00",
     "38ee9868601211f6a94b402fd52301d8d6e3e65ca7e76de38bb7759955642b1e": "2026-10-31T19:42:25.700534+00:00",
     "392a6daead0467b3827f0032690e2ee63451da2f8bfad973297a14897f942130": "2026-11-01T17:38:01.518795+00:00",
-    "394069afded54c340b87b442e9229e7f4e62dbf0183d09bdf39d662a9a3465d2": "2026-10-02T20:20:52.431974+00:00",
     "39769b4228aaba98d06068d350f22413a855e22ac8a9a392d447c1ad654cb7dc": "2026-10-29T01:31:24.950108+00:00",
     "39a7a377ea552cdc6738ff4d6f91466430b7a0a1196178127152db2895113035": "2026-10-31T15:00:26.352365+00:00",
     "39ce523cfb1d28f2fdc3f72409bebc99262ef71d8e834a32c4a209638f7d0cb2": "2026-10-26T16:28:26.498914+00:00",
@@ -277,6 +311,7 @@
     "4827411fae434c9133b968d85be7bb0d786309e1d54cd906db4aebfa2089d8a9": "2026-10-10T02:03:44.332439+00:00",
     "49044ab42232602da863e709ce6eac8965d1144cf6a1055ea465ce9e8b1168d4": "2026-10-16T22:30:05.876391+00:00",
     "49189d67c52ae70d88653b5b894c839c76b29fb864b0f99b7b8d072d858a2f0d": "2026-10-26T21:19:58.691038+00:00",
+    "495171a55d80da92b294201699a473e4342e0b3af63c2e1ae964482209213ffc": "2026-11-01T21:41:06.394943+00:00",
     "49609975fe17b0d1435c953508b8d697962fd391bacc144c85d6bca8970bb14f": "2026-10-25T14:47:38.249910+00:00",
     "4967c79fc8adb0f7ca67a3b5ad1380992752dc1ed500ea443b7d942e20b2cdd8": "2026-10-16T22:30:05.123373+00:00",
     "496edf218946eb1b6165088212274e202b6f4f387a1a90d523643082a3bc57e6": "2026-10-26T21:19:58.214191+00:00",
@@ -472,7 +507,6 @@
     "776b81bbcf42e41dbfb0471efe39b9d97f10031971cb16ef82f6af93fe935e7e": "2026-10-22T22:04:15.293352+00:00",
     "779288141153639b478839c4feded8a0adca527aee69e43d64fe427b48b7061f": "2026-10-31T19:42:25.496775+00:00",
     "78a230c2771c86d80cd3006fcd2547d8b0bf301afbeda1710495ecbc27a123c7": "2026-10-05T23:43:28.067408+00:00",
-    "78b4f4130a424ee1943e4910f03d2e6d3e7011d57dd442901e4b8c64fadacb94": "2026-10-02T20:20:52.427537+00:00",
     "78f9c41a2e534dc9340a8f133c298d3b1b9df9ed135705016153369edd4ccc06": "2026-10-31T01:59:49.799367+00:00",
     "7925e7c229b1109920f2e689052631e7889aa355b24f2e7bbe189d21b06c9ad3": "2026-10-06T22:19:11.354238+00:00",
     "794a913695c00d046532371b0854e5d2ec04d6543e9a086512be625c0ba10fc1": "2026-10-23T23:47:51.076845+00:00",
@@ -568,7 +602,6 @@
     "8e45784879af4f46c537f9520827ec1e02b08e6a10a670926330348f14d561d3": "2026-10-09T17:17:52.927876+00:00",
     "8e5c48f81ddaede20d97877d41e7a03f940ec9e57e6ca6e057ce4f65de00eed1": "2026-10-29T15:09:29.929528+00:00",
     "8eb7f8be1dfd42fa2607106ca889af5dc63ed3980e441a84c2d4aee2dbe2da19": "2026-10-22T18:16:04.710603+00:00",
-    "8eb8a3a0bda7e9e7e9558f6e80cb0a8d24635c23ed47adb06a024caf2b779f09": "2026-10-02T20:20:52.131223+00:00",
     "8ee415ed1c4deab2026cae07d4b3c9abc24d3255df5619990c2daa1b8bed4b93": "2026-10-04T22:43:08.433712+00:00",
     "8f1aa39518a228deab6e6eaf595accf762d6ea6377ab1a18e40d1ded258f01cd": "2026-10-19T00:47:40.368160+00:00",
     "8f3dc70840b687d441f65a4e67303c5d32180ef30958281daadeb32de666bcfa": "2026-10-19T22:51:47.750208+00:00",
@@ -808,7 +841,6 @@
     "c95e457a124ea13fcbfce26e5ca530adf8b4716a07068d38bac55849bdd89be4": "2026-10-22T07:04:13.529896+00:00",
     "c9db341cfe9353853e1497e91bda96659c230b19ad7975b8c0ede945a169fc38": "2026-10-11T03:57:37.583192+00:00",
     "ca7e6a71f0b32b16c3624263aba9401658e870ea772eed2407961ef43784eff8": "2026-10-27T01:06:30.588227+00:00",
-    "caab485feb30577dc33538e44fdc41d0c2af56c8bf9f168ee1f94c10e98bb9b2": "2026-10-02T20:20:51.846159+00:00",
     "cac44c2bb8a30808b9141df5dde086d0bfeead0ff57ff807eda71d33fd28c2c3": "2026-10-20T18:19:36.834970+00:00",
     "cadb879ad8281c2f88a602a6d1a295f8f7c39646442b932c2c8c6d0d1960c7eb": "2026-10-21T22:04:45.656836+00:00",
     "cb3a64acd9da4f9550c90a8a85189eb9317f141bd85dca577ffad3ee51792a74": "2026-10-26T16:28:26.500893+00:00",
@@ -1018,7 +1050,6 @@
     "f7f62f9129f6a2fb3ac4048dc3647b0c60d86ec2b216c41c66197f55872cc8aa": "2026-10-20T18:19:36.833158+00:00",
     "f7f645a8aaba3f62d1e22fb49137a7d9423dab3c62e65b585cc38c7aea770810": "2026-10-07T22:41:20.634962+00:00",
     "f81eaa0b495b22e6506ba218735f565d425ae7ef4fca2c5ed6610712d6819bda": "2026-10-27T19:14:09.583129+00:00",
-    "f82879fcf22c62c531cc376a454ae8b55a9df6d883fdcdb9fe6b3c7370586885": "2026-10-02T20:20:52.426882+00:00",
     "f83ab62452390138670a43279bf68929fedc025a0b96488632a46d84cee2936e": "2026-10-15T13:55:34.316897+00:00",
     "f85e76fc04dd040efee58727c0370b9beb69c3de67770bcef7d6199a8c05aa90": "2026-10-20T18:19:36.498709+00:00",
     "f89dfdc5dcb99e783e48572634c08aa1ba8f35be5707ffe0b4bea0082e644139": "2026-10-03T22:39:48.725045+00:00",
